@@ -1,5 +1,7 @@
 # The state-building. **2026-8-4** **LLM-content = translation from Russian, not generation ideas!**
 
+Contact: https://steamcommunity.com/id/HadgimuradPrilov/  
+
 Architecting a new generalist operating system for the post 2035 reality. Target Horizon 2035+. Designed for evolution through diversification. Forks welcomed.  
 
 US English but since 2035 **MEL** - Modified English Language (Like a dialect or Light conlang/constructed language)   
