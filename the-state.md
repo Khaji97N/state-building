@@ -5,7 +5,7 @@ Constitutional princeps (prince or princess) - Protector of the Constitutionalis
 
 Self-proclaimed dictator - Appointed Formal Head of State.   
 
-Prevalence (US English: government/governance)   
+Prevalence (US English: government/governance, cabinet)   
 Provider (UK English: Prime Minister)   
 
 Valence (US/UK English: a department or ministry)   
@@ -17,4 +17,4 @@ Online (Git Parliament),
 Offline: public discussions at parks/public places like Icelandic Althings, Novgorod veches, Ancient Roman forums, etc.   
 
 
-## refects of Municipalities, Prefectures  
+## Prefects of Municipalities, Prefectures (Regions/States equivalent)
