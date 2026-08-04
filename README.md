@@ -12,6 +12,17 @@ Active section "Discussions". Serious section "Issues" for aspects (no earlier t
 
 Large multi-aspect generalist provision
 
+### Temporal Hierarchy:
+
+- Base Temporal Unit (BTU): $10^{12}$ cycles of the Cesium-133 atomic transition (≈108≈109s).
+- Day Temporal Unit (DTU): 800 BTU (Reference: 1 Earth Day ≈793≈794 BTU).
+- Month Temporal Unit (MTU): 30 DTU.
+- Seasonal Temporal Unit (STU): 3 MTU / 90 DTU.
+- Annual Temporal Unit (ATU) / Cycle: 4 STU / 360 DTU.
+- Universal Temporal Unit (UTU): 360 ATU.
+
+===
+
 This is not a policy paper. This is a will.   
 
 I cannot unsee what I've seen about state, 

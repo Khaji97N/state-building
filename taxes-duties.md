@@ -1,18 +1,14 @@
-A Blueprint: Taxes, Duties.  
-Constitutional moratorium on taxes and duties   
-Anti-inflationary mechanism: Luxary excise tax no less than 70 000 CU per unit   
-Anti-inflationary mechanism: Excise tax on any coffee, tobacco, beer, champagne, alcopops, alcoholic no less than 725 CU per unit   
-Anti-inflationary mechanism:   
-Anti-inflationary mechanism:   
-Anti-inflationary mechanism:   
-Income tax: daily 0.01%, no exemptions, without exception.    
-Corporate tax: daily 0.01%, no exemptions, without exception.    
-Property tax: daily 0.01%%, no exemptions, without exception.    
-Land tax: daily 0.01%  
-Severance tax: daily 0.01%  
-Financial Transaction Tax: 0.01%  
-Value Added Tax: 5% no exemptions, without exception. Digital Services tax included.    
-Transit duty: ~25% (constitutional minimum/no less than 12.50%)  
+A Blueprint: Taxes, Duties.  In development.
+Constitutional moratorium    
+
+- Base Temporal Unit (BTU): $10^{12}$ cycles of the Cesium-133 atomic transition (≈108≈109s).
+- Day Temporal Unit (DTU): 800 BTU (Reference: 1 Earth Day ≈793≈794 BTU).
+- Month Temporal Unit (MTU): 30 DTU.
+- Seasonal Temporal Unit (STU): 3 MTU / 90 DTU.
+- Annual Temporal Unit (ATU) / Cycle: 4 STU / 360 DTU.
+- Universal Temporal Unit (UTU): 360 ATU.
 
 
+Land tax: 0.01%/1 basic point per ATU, no exemptions, without exception.
+Property tax: 0.01%/1 basic point per ATU, no exemptions, without exception.
 
