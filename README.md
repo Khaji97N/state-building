@@ -26,13 +26,13 @@ Description:
 - Ensure divisibility, zero rounding errors
 - Experience with number theory / modular arithmetic preferred
 
-I'm just a generalist and I need other specialists for this generalist project. (jurist contributor, philosophic contributor, etc)  
+# I'm just a generalist and I need other specialists for this generalist project. (jurist contributor, philosophic contributor, etc)  
 
 Multi-dimensional Philosophy (not only one preferred Philosophy)  
 
 ## Role of the Generalist Coordinator 
 
-**Author**: 
+**Author**: Khaji97N (Real name: Khadzhimurad Prilov/Cyrillic Хаджимурад Прилов). 
 
 === 
 
@@ -65,6 +65,13 @@ Multi-dimensional Philosophy (not only one preferred Philosophy)
 **Military Systems Engineer**: 
 
 ### Tier V. Additional specialists. 
+
+===
+
+
+
+
+
 
 ===
 
