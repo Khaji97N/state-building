@@ -7,7 +7,7 @@ NEW COMMON LAW CONSTITUTIONAL FRAMEWORK
 
 ═══════════════════════════════════════════════════════════════
 
-PART I: 10 CONSTITUTIONAL IMPERIAL PRINCIPLES
+PART I: 10 CONSTITUTIONAL IMPERATIVE PRINCIPLES
 (Конституционные императивные принципы)
 Status: Absolute, universal, apply to all legal persons
         (people, AI, corporations, states)
@@ -23,8 +23,8 @@ Status: Systemic threats; become charges in criminal/civil law
 ═══════════════════════════════════════════════════════════════
 
 
-# PART I: 10 CONSTITUTIONAL IMPERIAL PRINCIPLES
-## Принципы конституционные императивные
+# PART I: 10 CONSTITUTIONAL IMPERATIVE PRINCIPLES
+## Rонституционные императивные принципы
 
 These principles are **not laws**. They are **axioms of the legal order**.
 Every statute, contract, administrative act, and judicial decision must conform.
@@ -261,7 +261,7 @@ military service, taxation, jury duty, voting, or public service."
 
 ---
 
-## ENFORCEMENT OF IMPERIAL PRINCIPLES
+## ENFORCEMENT OF IMPERATIVE PRINCIPLES
 
 **Judicial Review:**
 Every statute, contract, and administrative act may be challenged
