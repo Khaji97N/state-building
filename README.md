@@ -1,4 +1,4 @@
-# The state-building. **2026-8-4** **LLM-content = translation from Russian, not generation ideas!**
+# The state-building. **2026-8-5** **LLM-content = translation from Russian, not generation ideas!**
 
 Contact: https://steamcommunity.com/id/HadgimuradPrilov/  
 
@@ -14,12 +14,57 @@ Large multi-aspect generalist provision
 
 ### Temporal Hierarchy:
 
-- Base Temporal Unit (BTU): $10^{12}$ cycles of the Cesium-133 atomic transition (≈108≈109s).
-- Day Temporal Unit (DTU): 800 BTU (Reference: 1 Earth Day ≈793≈794 BTU).
-- Month Temporal Unit (MTU): 30 DTU.
-- Seasonal Temporal Unit (STU): 3 MTU / 90 DTU.
-- Annual Temporal Unit (ATU) / Cycle: 4 STU / 360 DTU.
-- Universal Temporal Unit (UTU): 360 ATU.
+- Baisc Temporal Unit (MTU): $10^{12}$ cycles of the Cesium-133 atomic transition (almost ≈109s). (Reference: 1 Earth Day almost ≈794 BTU with leap seconds, etc).   
+
+"Seeking Mathematician Contributor: 
+        Base-60 Temporal Units System Design"
+
+Description:
+- Project needs someone to formalize a 60-based 
+  temporal and spatial unit system
+- Replace MTU (10^12) with 60-based alternative
+- Ensure divisibility, zero rounding errors
+- Experience with number theory / modular arithmetic preferred
+
+I'm just a generalist and I need other specialists for this generalist project. (jurist contributor, philosophic contributor, etc)  
+
+Multi-dimensional Philosophy (not only one preferred Philosophy)  
+
+## Role of the Generalist Coordinator 
+
+**Author**: 
+
+=== 
+
+### Tier I: Philosophical and Legal Foundation 
+**Philosopher (Multidimensional ethics)**: 
+
+**Legal architect (New Common Law, AI legal persons, IA/Intelligence Amplification or Augmented symbiotic persons etc)**: 
+
+### Tier II. Economic and Financial 
+
+**Economist**: 
+
+**Financier**: 
+
+### Tier III. Infrastructure and Structures
+**Open Hardware Engineer**: 
+
+**Open Firmware Engineer**: 
+
+**FOSS developer**: 
+
+**Mathematician**: 
+
+**Physicist**: 
+
+### Tier IV. Specialised Science and aspects
+
+**Military expert**: 
+
+**Military Systems Engineer**: 
+
+### Tier V. Additional specialists. 
 
 ===
 
@@ -46,8 +91,6 @@ Moratorium and limited proprietary AI, IA (Intelligence Amplification)
 Open State Portal (e-governmental services, etc).   
 
 Instead of waiting for government anti-monopoly agencies to "save" us, we can implement bottom-up anti-monopoly activity. By forming a cooperative of small and mid-sized entrepreneurs, middle business (upper mid-sized enterprises), we create our own economic zone—one where the infrastructure is a common good, not a tool for extraction.  
-
-"I view this as an experiment in **national shadow-channeling**. Drawing from Jung's theory of the Shadow and Schopenhauer's concept of the Will, the project recognizes that suppressing human aggression only leads to larger tragedies. Instead of ignoring human nature, we **architect it**. The Self-Proclaimed Dictator acts as a 'catalytic lubricant' for the gears of power. By allowing a limited, contained expression of dominance (e.g., a private security detail of 200-250 personnel), we safeguard the state from the blind, uncontrollable violence of mass revolution. It is a choice of **calculated tension over fragile stability**."   
 
 ## ✍️ Personal Note
 

@@ -3,8 +3,6 @@ MEL (Modified English Language)
 ## Constitutional Republican Principality
 Constitutional princeps (prince or princess) - Protector of the Constitutionalism.   
 
-Self-proclaimed dictator - Appointed Formal Head of State.   
-
 Prevalence (US English: government/governance, cabinet)   
 Provider (UK English: Prime Minister)   
 

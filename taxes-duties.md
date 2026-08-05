@@ -1,14 +1,12 @@
 A Blueprint: Taxes, Duties.  In development.
-Constitutional moratorium    
-
-- Base Temporal Unit (BTU): $10^{12}$ cycles of the Cesium-133 atomic transition (≈108≈109s).
-- Day Temporal Unit (DTU): 800 BTU (Reference: 1 Earth Day ≈793≈794 BTU).
-- Month Temporal Unit (MTU): 30 DTU.
-- Seasonal Temporal Unit (STU): 3 MTU / 90 DTU.
-- Annual Temporal Unit (ATU) / Cycle: 4 STU / 360 DTU.
-- Universal Temporal Unit (UTU): 360 ATU.
+Constitutional moratorium ???   
 
 
-Land tax: 0.01%/1 basic point per ATU, no exemptions, without exception.
-Property tax: 0.01%/1 basic point per ATU, no exemptions, without exception.
+
+
+The micro-taxes is a millionth of a basic point (0.01%)   
+MEL (Modified English Language) **Unified Prime Tax** (US English Single Direct Tax): 0,01 of revenue.  
+**Market capitalization tax**: 0.01% 
+**Land tax**: 0.01%/1 basic point, no exemptions, without exception.  
+**Property tax**: 0.01%/1 basic point, no exemptions, without exception.  
 
