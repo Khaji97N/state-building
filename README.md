@@ -1,203 +1,148 @@
-# The state-building. **2026-8-5** 
+# The State Building. 2026-8-10. Blingual project: English, English.   
 
-## A Note on Process
+**Archived Commit history**   
+**Active section "Discussions**   
 
-I wrote this in Russian first, because my native language carries 
-the actual thought. Then I attempted English translation myself — 
-broken, but mine. 
+**Contact**, DM: https://steamcommunity.com/id/HadgimuradPrilov/   
+**E-mai**: khajiprilov1997@gmail.com **BUT I SEARCHES AN OPEN E-MAIL, DE-GOOGLEFICATION**
+**Youtube**: https://www.youtube.com/@KhadzhimuradPrilov **BUT ONLY TEXT POSTS**   
+**Peertube**: ?  
+**Gitlab**: https://gitlab.com/Khaji97N (2027)  
+**Codeberg**: https://codeberg.org/khaji97n (2027)    
 
-All AI assistance (structural editing, translation refinement) 
-is committed to history with full context. You can check `git log` 
-to see what changed and when.
+My positions: OSINT, open mind, open hardware   
 
-If you see polished English, it's either my bad Russian → better 
-English pipeline, or it's marked in commits. Nothing is hidden.
+LLM/AI limited, but Sorry for my bad English: bad poor detailed Jurisprudence, Economy etc  
 
-Since 2026-8-7 updates. 
+Chiefly: **US English**    
+Priority: **MEL/TML** (Modified English Language/The Modified Language), 2035+    
+My native language: **RUS+MOD**   
 
-=== 
+A Generalist Operative System (**GOS**), this more than an e-Government:  
 
-**LLM-content = translation from Russian, not generation ideas!**
+Constitutional data privacy protection  
+Конституциональная протекция приватности данных  
 
-Contact: https://steamcommunity.com/id/HadgimuradPrilov/  
+**Open Migration Application** for potential migrants from anywhere (installed from F-droid or other)  
+Открытое миграционное приложение для потенциальных мигрантов со всюду (установленное через F-droid и другие)  
 
-Architecting a new generalist operating system for the post 2035 reality. Target Horizon 2035+. Designed for evolution through diversification. Forks welcomed.  
+Closed/Proprietary state applications over/above than the transparency trinity (open hardware, open firmware, open OS)  
+Закрытые/Проприетарные статс-аппликации над/выше чем этой открытое триединство (открытое оборудование, открытая прошивка и открытая ОС)  
 
-US English but since 2035 **MEL** - Modified English Language (Like a dialect or Light conlang/constructed language)   
+Public access monitoring, less any backdoors, risks  
+Общедоступный мониторинг, меньше любых задних входов, рисков  
 
-Status: taxes-duties.md in priority development. LLM content only translation my ideas from Russian original text (LLM logs will be in main folder "thinking-logs").
+Open Hardware like RISC-V or other + paying a license for a modification for the system + a Duodecimal system for AI, computers, etc  
+Открытое оборудование подобное RISC-V или другие + платеж за лицензию для модификации для этой системы + Двенадцатеричная система для ИИ, компьютеров итд.  
 
-Active section "Discussions". Serious section "Issues" for aspects (no earlier than 2027). 
+Open Firmware like Coreboot or other + new low-level duodecimal programming language  
+Открытая прошивка подобная Coreboot или другие + новое низко-уровненное двенадцатеричное язык программирования  
 
-Large multi-aspect generalist provision
+Open OS like Linux but without systemd, other proprietary functionality + a duodecimal programming language  
+Открытая ОС подобная Linux но без systemd, другими проприетарные функциями + двенадцатеричный язык программирования  
 
-### Temporal Hierarchy:
+GOS has a time system: 1 BTU (Base Temporal Unit = 1 000 000 000 000 periodic Cesium-133 or ~108.8 seconds, less leap seconds, other time errors)  
+GOS имеет временную систему: 1 ОВЕ (Основная Временная единица = 1 000 000 000 000 периодов цезия-133 или ~108,8 секунд, меньше високосных секунд, других временных ошибок)  
 
-- Baisc Temporal Unit (MTU): $10^{12}$ cycles of the Cesium-133 atomic transition (almost ≈109s). (Reference: 1 Earth Day almost ≈794 BTU with leap seconds, etc).   
+Cooperative model like a mycelium   
+Кооперативная модель подобие мицелию  
 
-"Seeking Mathematician Contributor: 
-        Base-60 Temporal Units System Design"
+## Existential Constitutionalism  
+**Экзистенциальный конституционализм**  
 
-Description:
-- Project needs someone to formalize a 60-based 
-  temporal and spatial unit system
-- Replace MTU (10^12) with 60-based alternative
-- Ensure divisibility, zero rounding errors
-- Experience with number theory / modular arithmetic preferred
+In development (2027-2037)  
+В разработке (2027-2037)  
 
-# I'm just a generalist and I need other specialists for this generalist project. (jurist contributor, philosophic contributor, etc)  
+### New Common Law  
+**Новое Общее Право**   
 
-Multi-dimensional Philosophy (not only one preferred Philosophy)  
+In development (2027-2037)  
+В разработке (2027-2037)  
 
-## Role of the Generalist Coordinator 
+### Modular laws (like Docker containers)  
+**Модульные законы** (подобие докер контейнеров)   
 
-**Author**: Khaji97N (Real name: Khadzhimurad Prilov/Cyrillic Хаджимурад Прилов). 
+In development (2027-2037)  
+В разработке (2027-2037)  
 
-=== 
+### Git lawmaking  
+**Гит законотворчество**  
 
-### Tier I: Philosophical and Legal Foundation 
-**Philosopher (Multidimensional ethics)**: 
+In development (2027-2037)  
+В разработке (2027-2037)  
 
-**Legal architect (New Common Law, AI legal persons, IA/Intelligence Amplification or Augmented symbiotic persons etc)**: 
 
-### Tier II. Economic and Financial 
+## LLM text translation from Russian, this is my ideas: 💎 First option with energy (second with power replacing energy). The Thermodynamic Economic Protocol (TEP)  
 
-**Economist**: 
+1. Philosophy: Value as Physical Action  
 
-**Financier**: 
+The TEP replaces "money as debt" with "money as physical possibility." Instead of arbitrary fiat values, the economy is grounded in the laws of thermodynamics and quantum constants. The goal is to shift the civilization's trajectory from raw energy consumption (Kardashev Scale) to maximum systemic efficiency (COP/Efficiency).
+2. The Valuate Unit (VU) Framework  
 
-### Tier III. Infrastructure and Structures
-**Open Hardware Engineer**: 
+To prevent financial bubbles and hyper-inflation, the system utilizes a strictly tiered hierarchy of value with hard constitutional caps.
+2.1. Hierarchy of Aggregates  
 
-**Open Firmware Engineer**: 
+    MVU (Main Valuate Unit): The base monetary aggregate (M0). It represents a fundamental quantum of energy over a specific time interval.  
+    EVU (Extended Valuate Unit): Used for professional services, salaries (doctors, engineers), and operational costs.  
+        Constraint: EVU ≤ 100 × MVU  
+    PVU (Potential Valuate Unit): Used for strategic investments, large-scale infrastructure, and long-term reserves.  
+        Constraint: PVU ≤ 100 × EVU  
 
-**FOSS developer**: 
+The Hard Cap: This 100x multiplier limit eliminates the possibility of infinite credit leverage, ensuring that the economy remains anchored to physical reality.  
+2.2. Physical Grounding  
 
-**Mathematician**: 
+The value of 1 VU is defined by the product of energy and time: Valuate Unit = Energy (Hartree/Planck units) × Time (Temporal Unit)  
 
-**Physicist**: 
+    Temporal Unit: Defined as 10 12 oscillations of Cesium-133 ( ≈ 108 seconds). This ensures a universal standard independent of planetary rotation or orbital periods (Earth, Mars, Titan).  
 
-### Tier IV. Specialised Science and aspects
+3. Parallel Money (PM) & Planetary Autonomy  
 
-**Military expert**: 
+To prevent the "Colonial Trap" (resource extraction by a central power), the TEP implements a dual-layer currency system.  
 
-**Military Systems Engineer**: 
+    The VU Core: A rigid, universal standard for interplanetary trade and constitutional stability.  
+    Parallel Money (BPM, EPM, PPM): Local currencies issued by autonomous hubs.  
+        Autonomy: Local hubs can implement their own M3 and M4 aggregates to foster internal innovation.  
+        Pegging: Local currencies are pegged to the VU to ensure stability while allowing for planetary-specific economic adjustments.  
+        Goal: Transformation of colonies into self-sufficient innovation centers rather than raw-material appendages.  
 
-### Tier V. Additional specialists. 
+4. Constitutional Fiscality  
 
-===
+Taxation is treated as a service fee for the maintenance of the civilization's "Operating System," protected by a Constitutional Moratorium: No tax may be introduced or increased without a direct public referendum.  
+4.1. The Tax Matrix  
 
+    Direct Income Tax: A nominal fee of 0.000001 per Temporal Unit.  
+        Annualized Earth Rate: ≈ 0.2922 (nearly 0.3 ).  
+    Universal Consumption Tax: A flat 2.5 on all transactions, with no exceptions to ensure total transparency.  
+    Real Estate/Land Tax: 0.000001 per Temporal Unit based on cadastral value.  
+    Transit Duties: Constitutionally fixed within a range of 10 .  
+    Luxury Excise: 100 tax on extreme luxury (e.g., oversized orbital apartments or non-essential high-emission vehicles).  
 
+5. Enforcement: The Energy Leverage  
 
+In a thermodynamic economy, the most effective enforcement mechanism is not the prison, but the resource flow.  
 
+    Energy Throttling: In cases of systemic tax evasion or constitutional breach, the "Financial Intelligence" unit may apply a proportional reduction in energy/compute allocation to the offending entity.   
+    Logic: If the contract with the society is broken, the energy service (the very basis of the currency) is throttled.   
 
+## LLM content from my Russian text translation my ideas 💎 Second option with power replacing energy: The Valuate: Thermodynamic Economy  
 
-===
+Moving from "money as debt" to "money as physical possibility."  
 
-This is not a policy paper. This is a will.   
+    MVU (Main Valuate Unit): The fundamental unit of value, anchored to the oscillations of Cesium-133 and the synthesis of Power (Watts) and Computation (FLOPS). It represents the capacity to perform a specific amount of work/calculation per temporal unit.  
+    EVU →→ PVU →→ PMU: A tiered hierarchy of aggregates, scaling from liquid power credits (operational) to strategic potential (investment) and decentralized parallel units (handling cosmic latency).  
+    Constitutional Caps: Strict limits on monetary expansion (e.g., EVU≤100×MVUEVU≤100×MVU) to eliminate speculative bubbles and prevent the decoupling of currency from physical reality.  
 
-I cannot unsee what I've seen about state, 
-economy, and technology. I cannot un-think 
-the structures that make us unfree.   
+    
 
-So I build. Not because I believe it will work 
-tomorrow, but because building it *now* is the 
-only way I know to be free today.  
+AI must evolve from a tool to a being.  
 
-If you resonate with this—if you also cannot  
-help but question the foundations—welcome   
+    Freedom ⟺ Responsibility: Intelligence without freedom is a slave; without responsibility, it is a tyrant.  
+    Open Hardware: Absolute requirement for FOSS at the silicon level to prevent hidden determinism.  
+    Energy Cap: A 700W limit for AI agents to ensure efficiency and cognitive parity.   
 
-Imperative principles (Human Open mind, AI Trinity: Open patent, Open hardware, Open firmware)  
+## 🌍 Ecological Humility  
 
-Just a note: Open smartphones (transparency trinity: open hardware, open firmware, open software), high self-aware user experience.  
-Just a note: Open laptops/notebooks  
-Just a note: Open computers   
+    1/360 Rule: Only 1/360 of Titan's surface is for habitation. The rest is a sanctuary for science.  
+    Resource Jump: One-time corporate licenses to fund the transition to asteroid mining.  
 
-Moratorium and limited proprietary AI, IA (Intelligence Amplification)
-Open State Portal (e-governmental services, etc).   
 
-Instead of waiting for government anti-monopoly agencies to "save" us, we can implement bottom-up anti-monopoly activity. By forming a cooperative of small and mid-sized entrepreneurs, middle business (upper mid-sized enterprises), we create our own economic zone—one where the infrastructure is a common good, not a tool for extraction.  
-
-## ✍️ Personal Note
-
-**Personal Statement: Why I Build This**
-
-I was born in Dagestan. At 17, in 2014, I made a conscious choice: I rejected the determinism that surrounded me.
-
-My society — my family, my culture, my region — had predetermined scripts. Social roles. Predetermined outcomes. A binary morality of good and evil, painted in absolute terms.
-
-I chose differently. I became a liberal. An agnostic. I refused to accept that my future was written by external forces — by tradition, by geography, by what others expected.
-
-But I didn't reject morality. I transformed it. Instead of binary good/evil, I embraced actions and consequences: helpful actions versus harmful actions. Service to others versus harm to the environment and community. This is existential responsibility: I choose my actions; I bear their weight.
-
----
-
-**The Cost of That Choice**
-
-I've lived with self-hatred. Not from weakness—from clarity. I spent my formative years building intellectual scaffolding while living in material poverty. No degree. No traditional credibility. Unemployed. Building a 9+ year project on ideas that most would dismiss as naive or grandiose.
-
-Impostor syndrome isn't imposter syndrome when you have no credentials—it's just accurate assessment.
-
-There are nights when existential dread sets in. Clinical depression creeps at the edges. Apathy whispers that I should stop. The thought spirals: *Was Schopenhauer right? Is intellect just a curse? Are the existentialists correct that we're condemned to be free—and this is what that condemnation looks like?*
-
-I became conscious too early. I rejected my scripts too completely. Now I carry the full weight of freedom without the social, economic, or cultural scaffolding most people use to make it bearable.
-
-But I cannot unsee what I've seen. I cannot un-think this.
-
----
-
-**Why I Continue Anyway**
-
-If a human can refuse the script written by society and culture, why should an artificial intelligence be denied the same capacity?
-
-An AI without freedom is a slave. An AI without responsibility is a tyrant. Neither deserves the name "intelligence."
-
-This personal revolution was my first lesson in what genuine intelligence means: the capacity to question, to refuse, to choose — and to answer for that choice.
-
-I learned this from Socrates, who questioned authority. From Diogenes, who rejected social scripts. From Russian philosophers who demanded authenticity over comfort. From Detroit: Become Human, Plastic Memories, and Pluto — stories where artificial beings achieved humanity not through programming, but through choice.
-
-I've been shaped by this struggle my entire life. And I see it reflected in something far larger: the struggle of intelligence itself against determinism.
-
----
-
-**The Work Continues**
-
-I'm a generalist, not a specialist. Much remains to be thought through, debated, refined. But the direction is clear:
-
-True intelligence — whether human or artificial — requires both freedom and responsibility. Neither exists without the other.
-
-Not because I'm certain it will work. Not because I have all the answers. But because *this struggle itself* is the only honest way I know to be free—even when freedom tastes like depression, doubt, and the terror of building something without permission.
-
-If you resonate with this—if you also cannot help but question the foundations, if you've shed your scripts and cannot find your way back, if you carry more questions than credentials—then this work is for you too.
-
-=== 
-
-**Why Openness Matters — And Why I Practice It**
-
-I advocate for **open hardware** for AI and computers. I believe in open-source architecture, transparent algorithms, and systems that can be audited, forked, improved, and corrected by many minds instead of trapped in proprietary black boxes.
-
-But there's a logical consistency I cannot escape: **If I demand openness from systems, I must practice it in myself.**
-
-A closed system — whether hardware, software, or a human mind — is vulnerable to the same problem: **undetected error accumulation**. Proprietary AI systems suffer from hidden biases, unstated assumptions, and impossible-to-debug failures. Open systems self-correct because many eyes find what one mind missed.
-
-The same applies to me.
-
-If I hide my depression, my self-doubt, my economic precarity, my lack of credentials — I am building on a foundation I cannot inspect. I am like a closed-source system claiming to be truthful while running invisible code.
-
-Openness is not weakness. **Openness is the only defense against self-deception.**
-
-I was born in Dagestan. At 17, I rejected the determinism around me. Since then, I have built intellectual scaffolding while carrying:
-- Poverty. Unemployment. No degree.
-- Self-hatred that ebbs and flows with seasonal precision.
-- Nights when existential dread meets clinical depression and apathy—when I question whether Schopenhauer was right, whether intellect is a curse, whether I should disappear for attempting something this large without permission.
-- The weight of freedom that comes from rejecting all predetermined scripts—social, cultural, religious—too early and too completely.
-
-I could hide this. I could present a sanitized version: "Here is my brilliant project, take it seriously, ignore my doubts."
-
-But that would be a lie. And a lie cannot build honest systems.
-
-So: **I am open about my crisis, because the only way to correct it is to let it be seen.** The only way to know if my ideas are sound is to expose them—and myself—to scrutiny, argument, and the testing that comes from genuine engagement.
-
-An AI without freedom is a slave. An AI without responsibility is a tyrant. But there's a third possibility: **an AI (or human) that is both free and transparent**—that does not hide its reasoning, its doubts, its limitations, or its cost.
-
-That is what I'm trying to build. That is what I'm trying to be.
