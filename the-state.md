@@ -16,12 +16,12 @@ Multi-sig positioned accounts
 **Конституциональный Республиканский Принципалитет**  
 
 
-US/UK English: Usurper, Dictator - temporal consolidated power (like an Ancient Roman Dictators but modernised only one year/annual term, not renewable).  
-Русский: Узурпатор, Диктатор - временно консолидирующий власть.  
+US/UK English: Usurper, Dictator - temporal consolidated power (like an Ancient Roman Dictators but modernised only one year/annual term, not renewable).   
+Русский: Узурпатор, Диктатор - временно консолидирующий власть.   
 
-UK/US English: none equivalent.
-MEL/TML: **Constitutional Princeps (prince or princess)** - Protector of the Constitutionalism. 
-Русский язык с моими изменениями: **Конституциональный Принцепс (Принц или Принцесса)** - Протектор по этому Конституционализму. 
+UK/US English: none equivalent.  
+MEL/TML: **Constitutional Princeps (prince or princess)** - Protector of the Constitutionalism.   
+Русский язык с моими изменениями: **Конституциональный Принцепс (Принц или Принцесса)** - Протектор по этому Конституционализму.  
 
 Принц или Принцесса лучше условного Царя/Царицы, Короля/Королевы, Императора/Императрицы и прочего атрибута полной монархии (единоначалия), это не типичная монархия с династие и прочим.  
 
@@ -29,19 +29,19 @@ The Constitutional Dynasty/Это Конституционная династи�
 
 US English: government/governance, cabinet, collegial head of state, government  
 MEL/TML: **Prevalence/Prevail or English Forewieldy**   
-Русский язык с моими изменениями: Преваленция/Превалирование или Преобладающее правительство  
+Русский язык с моими изменениями: Преваленция/Превалирование или Преобладающее правительство   
 
 UK English: Prime Minister  
 MEL/TML: **Provider/Forewitter** -   
-Русский язык с моими изменениями: Провайдер или Провидец -  
-Премьер министр заменяется на Провайдера/Провидца. 
+Русский язык с моими изменениями: Провайдер или Провидец -   
+Премьер министр заменяется на Провайдера/Провидца.  
 
 US/UK English: a department or ministry  
 MEL/TML: **Valence or Will/Wield**   
 Русский язык с моими изменениями: Валенция/Воля, Власть или Область -  
 Министерства заменяется на Области  
 
-US/UK English: a secretary or minister
+US/UK English: a secretary or minister  
 MEL/TML: **Visionary or Witter** -   
 Русский язык с моими изменениями: Визионер или Ведомый -  
 Министры заменяются на Визионером/Ведомых  
@@ -73,20 +73,20 @@ XII
 XIII  
 
 
-## Republican Parliament  
-Республиканский Парламент  
+## Republican Parliament   
+Республиканский Парламент   
 Online (Git Parliament),  
 Онлайн (Гит парламент),  
 Offline: public discussions at parks/public places like Icelandic Althings, Novgorod veches, Ancient Roman forums, etc.   
 Оффлайн публичные дискуссии в парках/общественных местах подобные Исландским Альтингам, Новгородским вече, Древнеримским форумам и так далее.  
 
-## 
+##  
 
-Prefects of municipalities, prefectures (first vertical level in the vertical-horizontal model)
-Префекты муниципалитетов, префектур (первого вертикального уровня в рамках вертикально-горизонтальной модели)
+Prefects of municipalities, prefectures (first vertical level in the vertical-horizontal model)  
+Префекты муниципалитетов, префектур (первого вертикального уровня в рамках вертикально-горизонтальной модели)  
 
-Mayors of magistrates (second vertical level in the vertical-horizontal model)
-Мэры магистратов (второго вертикального уровня в рамках вертикально-горизонтальной модели)
+Mayors of magistrates (second vertical level in the vertical-horizontal model)   
+Мэры магистратов (второго вертикального уровня в рамках вертикально-горизонтальной модели)  
 
 
 
@@ -95,7 +95,7 @@ Mayors of magistrates (second vertical level in the vertical-horizontal model)
 
 
 The rank is based on a semantic approach inspired by the IDF's (Israel Defense Forces) methodology: returning to the original root meanings of titles rather than following traditional military nomenclature
-Система званий основана на семантическом подходе, вдохновленной методологией ЦАХАЛ (Армией Обороны Израиля): возвращение к исходным корневым значениям титулов вместо следования традиционной военной номенклатуре. 
+Система званий основана на семантическом подходе, вдохновленной методологией ЦАХАЛ (Армией Обороны Израиля): возвращение к исходным корневым значениям титулов вместо следования традиционной военной номенклатуре.  
 
 Another inspired by USN captain L. David Marquet  
 
@@ -120,28 +120,28 @@ IV. **Schout-bij-raum** (Netherlands Schout-bij-nacht) -
 V.  
 
 
-VI. Firmed/  
+VI. **Firmed/**  
 Фирменный/Держащий   
 
-VII. Volopower, Well-mighty, Doughty  
+VII. **Volopower, Well-mighty, Doughty**  
 Вельможа, Дюжий  
 
-VIII. Patent, Main, Might -  
+VIII. **Patent, Main, Might** -  
 Патент, Помощник -  
 
-IX. Major or Master (vary position)  
+IX. **Major or Master** (vary position)  
 Майор или Мастер (вариативная позиция)  
 
-X. Intendant/Lieutenant  
+X. **Intendant/Lieutenant**  
 Интендант/Лейтенант  
 
-XI. Adjutant  
+XI. **Adjutant**  
 Адъютант  
 
-XII. Ordinary/Reader (etymological, semantic approaches)  
+XII. **Ordinary/Reader** (etymological, semantic approaches)  
 Ординарный/Рядовой   
 
-XIII. Volunteer, Willing  
+XIII. **Volunteer, Willing**  
 Волонтер, Доброволец  
 
 
@@ -149,46 +149,46 @@ XIII. Volunteer, Willing
 ###  Maneuver operations. Parallel Army model (for contractors, mercenaries, hireling, etc)  
 Маневренные операции. Параллельная армейская модель (для контрактников, наемников, наемных и так далее)
 
-N. Duchy/Ducat
-Дукат 
-I. Producer (from Latin Pro + duco)-  
+N. **Duchy/Ducat**  
+Дукат  
+I. **Producer** (from Latin Pro + duco)-  
 Продюсер -  
-II. Condottiere (from Latin Conductus: Con + duco) -  
+II. **Condottiere** (from Latin Conductus: Con + duco) -  
 Кондотьер -  
-III. Subdue (from Latin Sub + duco) -  
+III. **Subdue** (from Latin Sub + duco) -  
 Субдуктор -  
-IV. Captain, Chief, Head -  
+IV. **Captain, Chief, Head** -  
 Капитан, Шеф -  
-V. Кадет, Петитный капитан -  
-Cadet, Petty/Petite captain -  
-VI. Corporal or Corps captain -  
+V. **Cadet, Petty/Petite captain** -  
+Кадет, Петитный капитан -  
+VI. **Corporal or Corps captain** -  
 Капрал или Корпусной капитан -  
-VII. Mandate -  
+VII. **Mandate** -  
 Мандат -  
-VIII. Lieutenant mandate -  
+VIII. **Lieutenant mandate** -  
 Лейтенант мандат -  
-IX. Adjutant mandate -  
+IX. **Adjutant mandate** -  
 Адъютант мандат -  
-X. Commandant -  
-Комендант - 
-XI.Lieutenant Commandant -  
+X. **Commandant** -   
+Комендант -  
+XI. **Lieutenant Commandant** -   
 Лейтенант Комендант -  
-XII. Adjutant commandant -  
+XII. **Adjutant commandant** -  
 Адъютант комендант -  
-XIII. Contracted soldier -  
-Контрактный солдат -  
+XIII. **Contracted soldier** -  
+Контрактный солдат -   
 
 
-### Strategic command, control:  
-Стратегическое командование и контроль:  
+### Strategic command, control:   
+Стратегическое командование и контроль:   
 
-N. Defense Ministry 
-Министр Обороны
-I. Strategist  
-Стратег  
-II. Antistrategist  
-Антистратег  
-III. Ypostrategist  
+N. **Defense Minister**    
+Министр Обороны  
+I. **Strategist**    
+Стратег    
+II. **Antistrategist**   
+Антистратег   
+III. **Ypostrategist**    
 Ипостратег  
 
 Tactical level:  
