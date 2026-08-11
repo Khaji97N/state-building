@@ -3,6 +3,8 @@
 **Archived Commit history**   
 **Active section "Discussions**   
 
+Sorry for slow development, I have a deep depression, existential crisis. I need a help. Detailed about me in 14 commit (2026-8-5 minor correction). Sorry for my bad English, I less using LLM for better translation thoughts, ideas from my native langauge (Russian).
+
 **Contact**, DM: https://steamcommunity.com/id/HadgimuradPrilov/   
 **E-mai**: khajiprilov1997@gmail.com **BUT I SEARCHES AN OPEN E-MAIL, DE-GOOGLEFICATION**
 **Youtube**: https://www.youtube.com/@KhadzhimuradPrilov **BUT ONLY TEXT POSTS**   
@@ -46,6 +48,16 @@ GOS имеет временную систему: 1 ОВЕ (Основная В�
 
 Cooperative model like a mycelium   
 Кооперативная модель подобие мицелию  
+
+## Environmental protection 
+**Защита окружающей среды** 
+
+
+## Energy 
+**Энергия**
+
+
+
 
 ## Existential Constitutionalism  
 **Экзистенциальный конституционализм**  
