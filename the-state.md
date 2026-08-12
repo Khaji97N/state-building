@@ -16,8 +16,8 @@ Multi-sig positioned accounts
 **Конституциональный Республиканский Принципалитет**  
 
 
-US/UK English: Usurper, Dictator - temporal consolidated power (like an Ancient Roman Dictators but modernised only one year/annual term, not renewable).   
-Русский: Узурпатор, Диктатор - временно консолидирующий власть.   
+US/UK English: Usurper, Dictator - temporal consolidated power (like an Ancient Roman Dictators but modernised only one year/annual term, not renewable). Head of State.   
+Русский: Узурпатор, Диктатор - временно консолидирующий власть. Глава государства  
 
 UK/US English: none equivalent.  
 MEL/TML: **Constitutional Princeps (prince or princess)** - Protector of the Constitutionalism.   
@@ -94,17 +94,81 @@ Mayors of magistrates (second vertical level in the vertical-horizontal model)
 **Вооруженные Силы Принципалитета**  
 
 
-The rank is based on a semantic approach inspired by the IDF's (Israel Defense Forces) methodology: returning to the original root meanings of titles rather than following traditional military nomenclature
+The rank is based on a semantic approach inspired by the IDF's (Israel Defense Forces) methodology: returning to the original root meanings of titles rather than following traditional military nomenclature   
 Система званий основана на семантическом подходе, вдохновленной методологией ЦАХАЛ (Армией Обороны Израиля): возвращение к исходным корневым значениям титулов вместо следования традиционной военной номенклатуре.  
 
-Another inspired by USN captain L. David Marquet  
-
+Another inspired by USN captain L. David Marquet, Prussian General Moltke, etc. US Army Pentomic divisions, Finland's Total Defense.   
 
 Vertical-horizontal armed forces   
 Вертикально-горизонтальные вооруженные силы  
 
-### Operational level, operations (within in the MDO/Multi-Domain Operations), New Army Model for volunteers  
-Новая армейская модель для волонтеров, добровольцев  
+
+### Earth Strategic & Navigational command, control:   
+Земное Стратегическое и Навигационное командование и контроль:   
+
+Navigation - Naval Command.  
+Навигация - Корабельное командование.  
+
+Strategy - Army Command.  
+Стратегия - Армейское командование.  
+
+N. 
+I. **Strategist**/**Navigator** or Greek Navarch -   
+Стратег/Навигатор    
+II. **Antistrategist**/**Antinavigator** or Greek Antinavarch -  
+Антистратег/Антинавигатор -   
+III. **Ypostrategist**/**Yponavigator** or Greek Yponavarch -     
+Ипостратег  
+
+Tactical level:  
+
+IV. Strategist or Navigator secondary (IDF Aluf Mishne)  
+V. Mandate strategist or navigator (IDF Sgan Aluf)  
+VI. Captain/Chief/Head (IDF Rav Seren)  
+VIII. Corporal/Petty Captain/Cadet/Petite Chief/Small head (IDF Seren)
+IX. Mandate (IDF Segen)   
+X. Commandant (IDF Segen Mishneh)  
+XI. Professional (IDF Katzín akademai meyuchad)  
+XII. Specialist (IDF Katzín akademai bakhír)  
+XIII. Aspirant (IDF Katzín miktsoí akademai)  
+
+### Aerospace Maneuver operations. Parallel Army model (for contractors, mercenaries, hireling, etc)  
+Воздушно-пространственные Маневренные операции. Параллельная армейская модель (для контрактников, наемников, наемных и так далее)
+
+N. **Duchy/Ducat**  
+Дукат  
+I. **Producer** (from Latin Pro + duco)-  
+Продюсер -  
+II. **Condottiere** (from Latin Conductus: Con + duco) -  
+Кондотьер -  
+III. **Subdue** (from Latin Sub + duco) -  
+Субдуктор -  
+IV. **Captain, Chief, Head** -  
+Капитан, Шеф -  
+V. **Cadet, Petty/Petite captain** -  
+Кадет, Петитный капитан -  
+VI. **Corporal or Corps captain** -  
+Капрал или Корпусной капитан -  
+VII. **Mandate** -  
+Мандат -  
+VIII. **Lieutenant mandate** -  
+Лейтенант мандат -  
+IX. **Adjutant mandate** -  
+Адъютант мандат -  
+X. **Commandant** -   
+Комендант -  
+XI. **Lieutenant Commandant** -   
+Лейтенант Комендант -  
+XII. **Adjutant commandant** -  
+Адъютант комендант -  
+XIII. **Contracted soldier** -  
+Контрактный солдат -   
+
+
+ 
+
+### Interstellar Operational level, operations (within in the MDO/Multi-Domain Operations), New Army Model for volunteers   
+**Межзвездная Новая армейская модель для волонтеров, добровольцев**  
 
 N (null, nothing). **Constitutional Princeps** -  
 N (ноль, ничто). Конституционный Принцепс -  
@@ -144,63 +208,4 @@ XII. **Ordinary/Reader** (etymological, semantic approaches)
 XIII. **Volunteer, Willing**  
 Волонтер, Доброволец  
 
-
-
-###  Maneuver operations. Parallel Army model (for contractors, mercenaries, hireling, etc)  
-Маневренные операции. Параллельная армейская модель (для контрактников, наемников, наемных и так далее)
-
-N. **Duchy/Ducat**  
-Дукат  
-I. **Producer** (from Latin Pro + duco)-  
-Продюсер -  
-II. **Condottiere** (from Latin Conductus: Con + duco) -  
-Кондотьер -  
-III. **Subdue** (from Latin Sub + duco) -  
-Субдуктор -  
-IV. **Captain, Chief, Head** -  
-Капитан, Шеф -  
-V. **Cadet, Petty/Petite captain** -  
-Кадет, Петитный капитан -  
-VI. **Corporal or Corps captain** -  
-Капрал или Корпусной капитан -  
-VII. **Mandate** -  
-Мандат -  
-VIII. **Lieutenant mandate** -  
-Лейтенант мандат -  
-IX. **Adjutant mandate** -  
-Адъютант мандат -  
-X. **Commandant** -   
-Комендант -  
-XI. **Lieutenant Commandant** -   
-Лейтенант Комендант -  
-XII. **Adjutant commandant** -  
-Адъютант комендант -  
-XIII. **Contracted soldier** -  
-Контрактный солдат -   
-
-
-### Strategic command, control:   
-Стратегическое командование и контроль:   
-
-N. **Defense Minister**    
-Министр Обороны  
-I. **Strategist**    
-Стратег    
-II. **Antistrategist**   
-Антистратег   
-III. **Ypostrategist**    
-Ипостратег  
-
-Tactical level:  
-
-IV.  
-V.  
-VI.  
-VIII.  
-IX.  
-X.  
-XI.  
-XII.  
-XIII.  
- 
 

@@ -2,6 +2,50 @@ No more than 13 taxes (constitutional moratorium, banned on new taxes, increased
 Не более чем 13 налогов (конституционный мораторий, запрет на новые налоги, повышение налогов)   
 
 
+Сокращение долгов, займов через ограничение налогов   
+
+
+US English: Starting money supply  
+MEL: Starting valuate supply   
+Русский+изменения: Начальная валютная поддержка  
+M0 ->  Valuate potential:   
+Валютный потенциал:   
+M1 -> Extended valuate potential:   
+Экстендированный валютный потенциал:   
+M2 + M3 -> Major/Plenary valuate potential:   
+Мажорный/Пленарный валютный потенциал:   
+
+One Valuate unit:  
+Одна валютная единица:   
+
+
+Valuate basket (US English: Currency basket):  
+No more than 5.00% per USD, EUR, JPY, etc. Diversified   
+
+
+One constitutional pound (like Russian pood) ~16.38 kilograms or 720 720 Planck weight unit.  
+Один конституционный фунт (подобно русскому пуду) ~16,38 кг или 720 720 Планковской весовой единицы.  
+
+One constitutional ounce =  
+Одна конституционная унция =    
+
+
+
+
+
+Replacing subunits:   
+Замена субъединицам:   
+Hayek + parallel money, like Danish krone pegged to the Euro  
+Хайек + параллельные деньги, подобно Датской кроне привязанной к евро  
+
+
+
+Enterprises/Business Negative Income Tax no less than ? up to no more than ?  
+предпринимательский/Бизнес отрицательный подоходный налог не меньше чем ? до не более чем ? при эмиссии в 10% за каждые 1 млн ОВЕ  
+
+
+
+
 
 1 US English - Single Direct Tax: 2.50% of 1 million BTU (Base Temporal Units) revenue.   
 MEL (Modified English Language) - Unified Prime Tax:   

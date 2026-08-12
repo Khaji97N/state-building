@@ -46,9 +46,9 @@ Open OS like Linux but without systemd, other proprietary functionality + a duod
 GOS has a time system: 1 BTU (Base Temporal Unit = 1 000 000 000 000 periodic Cesium-133 or ~108.8 seconds, less leap seconds, other time errors)  
 GOS имеет временную систему: 1 ОВЕ (Основная Временная единица = 1 000 000 000 000 периодов цезия-133 или ~108,8 секунд, меньше високосных секунд, других временных ошибок)  
 
-One Human biological temporal unit (adaptive, modular) = 800 BTU (1 Earth day ~793 BTU + leap seconds etc)
- For reference only: 1 Earth day ≈ 793 BTU (using fixed Cs-133 period; leap seconds/days are ignored in the BTU definition).
-Одна человеческая биологическая временная единица (адаптивная, модулярная) = 800 ОВЕ (1 Земной день примерно 793 ОВЕ + високосные дни и прочее)
+One Human biological temporal unit (adaptive, modular) = 800 BTU (1 Earth day ~793 BTU + leap seconds etc)  
+ For reference only: 1 Earth day ≈ 793 BTU (using fixed Cs-133 period; leap seconds/days are ignored in the BTU definition).  
+Одна человеческая биологическая временная единица (адаптивная, модулярная) = 800 ОВЕ (1 Земной день примерно 793 ОВЕ + високосные дни и прочее)  
 
 
 Cooperative model like a mycelium   
