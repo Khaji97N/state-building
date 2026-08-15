@@ -14,10 +14,6 @@ Priority: **MEL/TML** (Modified English Language/The Modified Language), 2035+
 My native language: **RUS+MOD**   
 
 **LLM generated text from my Russian text, translate ideas**:   
-To make this project resonate with a global, English-speaking audience (especially people like David Marquet or the Open Source community), the language should be **precise, visionary, and conceptually dense**, but not overly academic. It needs to sound like a **System Specification for a New Civilization**.
-
-***
-
 # State-Building: The New Common Law Project
 
 ## 🌐 Vision
@@ -50,6 +46,9 @@ The project is a multi-dimensional synthesis of diverse intellectual traditions,
 
 ***
 
+
+# Rough drafts, open notes, Open mind. 
+**Черновики, открытые заметки, Открытый разум**. 
 
 A Generalist Operative System (**GOS**), this more than an e-Government:  
 
