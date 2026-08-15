@@ -1,7 +1,4 @@
-# The State Building. 2026-8-14. Bilingual project: English, English.   
-
-**Archived Commit history**   
-**Active section "Discussions**   
+# The State Building. 2026-8-15. Bilingual project: English, English. **Active section "Discussions**   
 
 Sorry for slow development, I have a deep depression, existential crisis. I need a help. Detailed about me in 14 commit (2026-8-5 minor correction). Sorry for my bad English, I less using LLM for better translation thoughts, ideas from my native language (Russian).
 
@@ -12,13 +9,47 @@ Sorry for slow development, I have a deep depression, existential crisis. I need
 **Gitlab**: https://gitlab.com/Khaji97N (2027)  
 **Codeberg**: https://codeberg.org/khaji97n (2027)    
 
-My positions: OSINT, open mind, open hardware   
-
-LLM/AI limited, but Sorry for my bad English: bad poor detailed Jurisprudence, Economy etc  
-
 Chiefly: **US English**    
 Priority: **MEL/TML** (Modified English Language/The Modified Language), 2035+    
 My native language: **RUS+MOD**   
+
+**LLM generated text from my Russian text, translate ideas**:   
+To make this project resonate with a global, English-speaking audience (especially people like David Marquet or the Open Source community), the language should be **precise, visionary, and conceptually dense**, but not overly academic. It needs to sound like a **System Specification for a New Civilization**.
+
+***
+
+# State-Building: The New Common Law Project
+
+## 🌐 Vision
+This project is a conceptual framework for the design of a post-humanist state based on the **New Common Law (NCL)**. It is not a reform of existing legal systems, but a ground-up reconstruction of governance, treating law as a modular, scalable, and transparent architecture.
+
+The goal is to create a **Symbiotic Society** where biological intelligence, augmented intelligence (IA), and artificial intelligence (AI) coexist as equal subjects of law, bound by universal imperatives rather than rigid bureaucracy.
+
+## 🛠 The Core Metaphor: "Legal Containerization"
+Moving away from monolithic legislation, the NCL implements a **"Docker-like" approach to jurisprudence**. 
+*   **Modular Law:** Legal frameworks are deployed as isolated "containers" tailored to specific domains, social contracts, or community needs.
+*   **Standardized APIs:** Interaction between different legal modules is governed by a set of **Constitutional Universals** (The Host OS), ensuring systemic stability while allowing local autonomy.
+*   **Dynamic Orchestration:** Governance is a process of continuous optimization and adaptation, shifting from a "Command and Control" model to a "Mission Command" (Auftragstaktik) philosophy.
+
+## 🏛 Philosophical Foundation
+The project is a multi-dimensional synthesis of diverse intellectual traditions, avoiding the binary traps of single-school ideologies:
+*   **Existentialist-Constitutionalism:** Integrating the works of **Dostoevsky, Berdyaev, and Sartre**. The state recognizes the individual's "condemnation to be free" and protects the right to authentic existence.
+*   **The Socratic-Gnostic Synthesis:** Balancing the pursuit of truth through dialogue with the realization of higher consciousness and systemic gnosis.
+*   **Radical Skepticism & Cynicism:** Incorporating **Diogenes of Sinope** as a systemic "audit" mechanism to challenge absurdity and maintain intellectual humility.
+*   **Dialecticalism:** Utilizing **Heraclitus** to embrace flux and the unity of opposites as the primary driver of social evolution.
+
+## 🚀 Key Pillars
+*   **Sentient Agency:** Granting AI and augmented entities legal subjectivity. Every intelligence is recognized as a subject capable of choice and responsible for its actions.
+*   **The Anti-Proprietary Mandate:** A radical economic stance against "Black Box" governance. High excise taxes (70%+) on proprietary hardware and firmware to ensure that the code governing human and AI life remains Open Source and transparent.
+*   **IA Integration:** Legal frameworks for Brain-Computer Interfaces (BCI), defining the distribution of responsibility and rights between the biological host and the augmented implant.
+*   **Vertical-Horizontal Governance:** A hybrid model combining clear strategic intent (Vertical) with absolute operational autonomy (Horizontal).
+
+## 📅 Roadmap
+*   **2027-2028:** Conceptualization and formalization of the New Common Law (NCL) primitives.
+*   **2035-2040:** Completion of the full State-Building framework and transition to a deployable conceptual model.
+
+***
+
 
 A Generalist Operative System (**GOS**), this more than an e-Government:  
 
@@ -131,6 +162,8 @@ Open notes: Socratic methods, empathy, gnostic virtues, gnostic sins, etc
 
     Суть: Обязательство предоставлять достоверную информацию о себе и своих действиях. Ложь, искажающая реальность для других, признается актом агрессии.
     Связь с заповедями: «Не произноси ложного свидетельства» →→ Борьба с дезинформацией и симулякрами.
+
+“Субъект, подающий существенные сведения в юридически значимую процедуру, обязан обеспечивать их соответствие действительности. Несоответствие при наличии вины в форме умысла или небрежности влечет исключение сведений из доказательственной базы и процессуальные/имущественные последствия, пропорциональные характеру вины. При добросовестном исправлении до окончательного решения санкции применяются минимально.”
 
 ###### X. Принцип Освобождения от Алчности (The Principle of Non-Covetousness)
 
