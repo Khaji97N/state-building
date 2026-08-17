@@ -1,9 +1,9 @@
-# The State Building. 2026-8-16. Bilingual project: English, Russian. **Active section "Discussions"**   
+# The State Building. 2026-8-17. Bilingual project: English, Russian. **Active section "Discussions"**   
 
-Sorry for slow development, I have a deep depression, existential crisis. I need a help. Detailed about me in 14 commit (2026-8-5 minor correction). Sorry for my bad English, I less using LLM for better translation thoughts, ideas from my native language (Russian).
+Sorry for slow development, I have a deep depression, existential crisis. I need a help. Sorry for my bad English, I less using LLM for better translation thoughts, ideas from my native language (Russian).
 
 **Contact**, DM: https://steamcommunity.com/id/HadgimuradPrilov/   
-**E-mai**: khajiprilov1997@gmail.com **BUT I SEARCHES AN OPEN E-MAIL, DE-GOOGLEFICATION**
+**E-mai**: khajiprilov1997@gmail.com **BUT I SEARCHES AN OPEN E-MAIL, DE-GOOGLEFICATION**   
 **Youtube**: https://www.youtube.com/@KhadzhimuradPrilov **BUT ONLY TEXT POSTS**   
 **Peertube**: ?  
 **Gitlab**: https://gitlab.com/Khaji97N (2027)  
