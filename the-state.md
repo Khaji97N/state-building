@@ -352,3 +352,54 @@ XIII. **Volunteer, Willing**
 Волонтер, Доброволец  
 
 
+
+## Vertical competence  
+Вертикальная компетенция  
+
+National/Imperial level:
+Национальный/Имперский уровень
+
+(The Medieval equivalent - a Major Empire or Latin Maior Imperium) National Principal State Department of / Prevalence or Prevail, Forewielding  
+Национально-Принципальный Штатный Департамент / Преваленция или Превалирование, Преобладание  
+
+(Medieval equivalent - a ? or Latin ?) Prefectural Department / Valence, Wield, Well-mighty, Doughty  
+Префектурный/Предельный Департамент / Валенция, Область, Обладание, Вельможство, Дюжество  
+
+(Medieval equivalent - a ? or Latin ?) Municipal Stationary Department of / Barony   
+Муниципальный Стационарный Департамент / Баронство   
+
+(Medieval equivalent - a ? or Latin ?) Principal province /  
+Принципиальная провинция /  
+
+Space level: 
+Пространственный уровень: 
+
+Interstellar Cluster/Group -  
+Межзвездный кластер/группа -  
+
+Interstellar unit  
+Интерстелларный юнит/Межзвездная единица  
+
+Stellar/Sidereal  
+Звездный  
+
+Constellation  
+Констелляция/Созвездие  
+
+Local level: 
+Местный уровень: 
+
+Astro-Planetary region  
+Астро-Планетарный регион  
+
+Magisterial or Major city/Mega-polis  
+Магистральный или Мажорный сити/Мега-полис/Большой город  
+
+Medial city/Polis  
+Медиальный сити/Полис/Средний или Межевой город  
+
+Ministerial or Minor city/Micropolis  
+Министральный или Минорный сити/Микрополис/Меньший город  
+
+Locality/
+Локалитет или Локальность/Местность  
