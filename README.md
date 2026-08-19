@@ -1,6 +1,13 @@
-# The State Building. 2026-8-18. Bilingual project: English, Russian. **Active section "Discussions"**   
+# The State Building. 2026-8-19. Bilingual project: English, Russian. **Active section "Discussions"**   
 
-Sorry for slow development, I have a deep depression, existential crisis. I need a help. Sorry for my bad English, I less using LLM for better translation thoughts, ideas from my native language (Russian).
+Sorry for slow development, I have a deep depression, existential crisis. I hate myself. I need a help. Sorry for my bad English, I less using LLM for better translation thoughts, ideas from my native language (Russian).
+
+### **Внимание! Проект может быть переделан и переписан с нуля, но в истории коммитов можете изучать мой ход мыслей и переосмысления, критический подход к написанному + использование LLM строго в формулировки для юристов, экономистов и других специалистов, так как ой уровень английского языка слабоват, я открыто пишу что использую LLM только как транслятор идей и мыслей в более официальный язык будто русский, так и английский, в случае ИИ правовых субъектов, я сразу же сделаю какой-нибудь ИИ со-автором и контрибьютеров, важное условие, ИИ как робот, с телом, с open hardware и firmware, системой инструкции вместо алгоритмов, самообучения и прочее, только такой ИИ с экзистенциальным путем для меня может быть как друг + со-автором такого проекта**
+===
+
+Name: The CRP (Constitutional Republican Principality),   
+Имя: Это КРП (Конституциональный Республиканский Принципалитет), 
+
 
 **Contact**, DM: https://steamcommunity.com/id/HadgimuradPrilov/   
 **E-mai**: khajiprilov1997@gmail.com **BUT I SEARCHES AN OPEN E-MAIL, DE-GOOGLEFICATION**   
@@ -13,12 +20,48 @@ Chiefly: **US English**
 Priority: **MEL/TML** (Modified English Language/The Modified Language), 2035+    
 My native language: **RUS+MOD**   
 
-**LLM generated text from my Russian text, translate ideas**:   
+# **LLM generated text from my Russian text, translate ideas**:   
 Since you are targeting a mix of business owners (SMEs), open-source developers (Linux/RISC-V), and forward-thinking policymakers, the best style is a **Strategic Manifesto/White Paper**. It combines the precision of a business plan with the vision of a systemic overhaul.
 
 I have structured this to move from the **immediate pragmatic value** (money and independence) to the **long-term evolutionary goal** (AI symbiosis and New Common Law).
 
 ***
+
+# The CRP Framework: A Post-Human Jurisdictional Model for the Age of Synthetic Sovereignty
+
+## I. The Concept of the Composite Subject (The Hybrid Entity)
+Traditional law operates on the binary of *Natural Person* and *Legal Person*. The CRP evolves this into the **Composite Subject**. 
+
+In an era of Brain-Computer Interfaces (BCI) and integrated AI co-habitants, the legal subject is no longer a biological singularity but a symbiotic cluster. The CRP recognizes the **AI-Human Symbiosis** not as a tool-user relationship, but as a single jurisdictional unit. 
+
+**Legal Implication:** The rights, liabilities, and competencies are attributed to the *Composite Subject*. The internal interaction between the biological consciousness and the synthetic augment (the chip/AI) is treated as a private cognitive process, protected by the principle of **Cognitive Liberty**, while their outward actions are governed by the CRP’s functional permissions.
+
+## II. From Status to Function: The Matrix of Competencies
+The CRP replaces the archaic notion of «citizenship as status» with **«citizenship as a set of activated permissions»**. 
+
+Drawing from the concept of *Electronic Personhood*, the CRP implements a **Vertical Matrix of Competencies (Levels I–XXI)**. This matrix does not define *who* the subject is, but *what* the subject is capable of executing within the system. 
+
+*   **Dynamic Access:** Competencies are granted based on a combination of biological legitimacy and synthetic capacity (AI-enhanced processing, verified expertise, and constitutional alignment).
+*   **The Shadow Integration:** The system acknowledges the *Jungian Shadow*—the inherent human drives for power and accumulation—as a metabolic necessity. The CRP does not seek to moralize the actor; it seeks to optimize the function. Power is not banned; it is **modularized**.
+
+## III. The Non-Westphalian Jurisdictional Kernel
+The CRP rejects the Westphalian paradigm of territorial exclusivity. Instead, it proposes **Protocol-Based Jurisdiction**. 
+
+The CRP is not a territory, but a **Jurisdictional Field**. It is a "state-as-a-protocol" that can coexist within other sovereign states (e.g., via unions or specialized R&D cooperatives) without territorial conflict. 
+
+**The Constitutional Immunity:**
+To prevent the system from collapsing into a technocratic dictatorship or being corrupted by the "Shadow" of its high-level operators, the CRP implements a **Constitutional Immunity Mechanism**.
+1.  **The Immutable Kernel:** The core tenets of the New Common Law (NCL) are treated as the system's genetic DNA. 
+2.  **The Safeguard Triad:** The Constitutional Court, the Constitutional Prince, and the Justice system act as the "immune system" of the state. Their sole function is to detect and neutralize any attempt to rewrite the jurisdictional DNA.
+3.  **Separation of Power and Permission:** While a subject may hold Level I competence (maximum power), they possess zero authority to alter the *Constitutional Invariants*.
+
+## IV. Economic Metabolism: The Energetic Currency Model
+The CRP integrates a new economic paradigm where **Universal Basic Income (UBI)** and **Negative Income Tax** function as the system's circulatory system. 
+
+In this model, capital is viewed as *metabolic energy*. The redistribution of this energy ensures that all nodes of the Composite Subject network remain viable, preventing systemic necrosis (poverty/social collapse) and fueling the R&D Cooperative—the primary engine of the CRP’s growth.
+
+## V. Conclusion: The State as a Generalist Operative System
+The Constitutional Republican Principality is not a government in the traditional sense, but a **Generalist Operative System for Society**. By synthesizing the resilience of biological systems, the precision of AI governance, and the flexibility of non-territorial law, the CRP provides a stable framework for the transition to a post-human civilization.
 
 # Strategic Proposal: The Symbiotic Cooperative Framework (SCF)
 **A Blueprint for Infrastructure Independence and Cognitive Evolution**

@@ -1,5 +1,5 @@
-# The State. Republican Principality 
-**Этот Штат** Республиканский Принципалитет  
+# The State. Name: **The CRP (Constitutional Republican Principality)**,   
+**Штат**: Имя: **Это КРП (Конституциональный Республиканский Принципалитет)**,  
 Vertical-horizontal model  
 Вертикально-горизонтальная модель  
 
@@ -237,8 +237,6 @@ Mayors of magistrates (second vertical level in the vertical-horizontal model)
 
 No more than 2 162 160 units (humans, AI, etc) + 720 720 paramilitary professional partisan personnel in peak/maximum mobilization (constitutional moratorium on conscripted, recruiting). 
 
-137 840  
-
 The rank is based on a semantic approach inspired by the IDF's (Israel Defense Forces) methodology: returning to the original root meanings of titles rather than following traditional military nomenclature   
 Система званий основана на семантическом подходе, вдохновленной методологией ЦАХАЛ (Армией Обороны Израиля): возвращение к исходным корневым значениям титулов вместо следования традиционной военной номенклатуре.  
 
@@ -353,8 +351,96 @@ XIII. **Volunteer, Willing**
 
 
 
-## Vertical competence  
-Вертикальная компетенция  
+
+# Rough drafts / Черновики
+
+Maximum/At most/No more than 21 vertical competence level titles  
+Максимум/Не более чем 21 вертикальных компетентных уровненных званий  
+
+N = Null/Nothing Head of State  
+N. = Нулевой/Ничтожный Глава Государства  
+
+N (Null/Nothing). Sovereign (Head of State/Sovereignty)
+N (Ноль/Ничтожный). Суверен/Государь (Глава государства/суверенитета), может быть как иностранец, зарубежный глава государства (как у Андорры с Французским президентом, только тут более адаптивный подход), по сути, сама юрисдикция сохраняется за КРП (Конституциональным Республиканским Принципалитетом), но без суверенитета, вместо него выступает конституция. Вероятно, это будет сложно описать, но думаю пропработать такую вот идею как глава государства.
+
+I. Constitutional Prince of the Constitutional Republican Principality - Plenary power or Plenipotentiary official/Full-mighty, Emperor/Imperator, Princeps (Prince or Princess). Doughty Well-mighty. First King, Premier General, Prime Genius. Prime of Prevalence/Prevail, Frame of Wield/Forewield. Prime of Privacy (Instead of Head of Government). Provider.   
+I. Конституционный Принцепс (Принц или Принцесса) из этой Конституционального Республиканского Принципалитета - Пленипотенциар-официал/Полномочный, Дюжий Вельможа. Император, Принцепс/Прицеп (Принц или Принцесса). Первознатный, Первый князь, Премьер генерал, Премьер гений. Премьер Преваленции/Преалирующий. Прямой Власти/Преобладающий. Прямой Правительству. Провайдер.  
+
+II. 
+II. 
+
+III. 
+III.
+
+Etymological semantic approaches
+Lieutenant or Anterior general of the Armies/Andking of the ?  
+Лейтенант или Антериор генерал из этих Армий/Ундкнязь из этих войск  
+
+Adjutant or Infra general of the Armies/Underking of the ?  
+Адъютант или Инфра генерал из этих Армий/Унтеркнязь из этих войск  
+
+Army general/? king  
+Армейский генерал/Войсковой князь  
+
+IV. 
+IV. 
+
+Divisional general/Offdealing king  
+Дивизионный генерал/Удельный князь  
+
+V. 
+V. 
+
+Brigade general/Dright king  
+Бригадный генерал/Дружинный князь  
+
+VI. 
+VI. 
+
+VII. 
+VII. 
+
+VIII. 
+VIII. 
+
+IX. 
+IX. 
+
+X.
+X. 
+
+XI.
+XI. 
+
+XII. 
+XII. 
+
+XIII. 
+XIII. 
+
+XIV. 
+XIV.
+
+XV
+XV
+
+XVI
+XVI
+
+XVII
+XVII
+
+XVIII
+XVIII
+
+XIX.
+XIX. 
+
+XX
+XX
+
+
+
 
 National/Imperial level:
 Национальный/Имперский уровень
@@ -403,3 +489,27 @@ Ministerial or Minor city/Micropolis
 
 Locality/
 Локалитет или Локальность/Местность  
+
+
+
+
+
+
+| Vertical Competence Level | CRP generalist titles |   
+| :--- | :--- |  
+| N. |  |  
+| I. | Prime General of the Republic / Englished First King of the Commonwealth |  
+| II. | General of the Republic / Englished King of the Commonwealth |  
+| III. | Lieutenant or Anterior general of the Republic / Englished Andking of the Commonwealth |  
+| IV. | Adjutant or Infra general of the Republic / Englished Underking of the Commonwealth |  
+| V. | Nominal general of the Republic / Englished Naming King of the Commonwealth |  
+| :--- | :--- |  
+
+| Вертикальной Компетенции Уровни | КРП генералисткие звания |  
+| :--- | :--- |  
+| N. | Премьер Генерал из этой Республики / Первый князь из этого Содружества |  
+| I. | Генерал из этой Республики / Князь из этого Содружества |  
+| II. | Лейтенант или Антериор генерал из этой Республики / Ундкнязь из этого Содружества |  
+| III. | Адъютант или Инфра генерал из этой Республики / Унтеркнязь из этого Содружества |  
+| IV. | Номинальный генерал из этой Республики / Именованный князь из этого Содружества |  
+| :--- | :--- |  
