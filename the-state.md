@@ -354,6 +354,29 @@ XIII. **Volunteer, Willing**
 
 # Rough drafts / Черновики
 
+
+Principality Gendarmerie  
+Принципалитетная Жандармерия  
+
+
+Principality Justice Units (PJU) 
+Принципалитетные Юстиционные Юниты (ПЮЮ)  
+
+Municipal Justice Units (MJU) 
+Муниципальные Юстиционные Юниты (МЮЮ)
+
+PD (Police Departments) = only cities, polises. 
+Полицейские департаменты = только города, полисы. 
+
+Внешняя разведка (Foreign intelligence) -  
+Домашняя разведка (Domestic intelligence) -  
+Военная разведка -  
+Радиоэлектронная разведка (Signals intelligence) -  
+Видовая разведка (Imaginary intelligence) -  
+Финансовая разведка (Financial intelligence) -   
+Уголовная разведка (Criminal intelligence) -  
+
+
 Maximum/At most/No more than 21 vertical competence level titles  
 Максимум/Не более чем 21 вертикальных компетентных уровненных званий  
 

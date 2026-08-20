@@ -1,8 +1,8 @@
-# The State Building. 2026-8-19. Bilingual project: English, Russian. **Active section "Discussions"**   
+# The State Building. 2026-8-20. Bilingual project: English, Russian. **Active section "Discussions"**   
 
 Sorry for slow development, I have a deep depression, existential crisis. I hate myself. I need a help. Sorry for my bad English, I less using LLM for better translation thoughts, ideas from my native language (Russian).
 
-### **Внимание! Проект может быть переделан и переписан с нуля, но в истории коммитов можете изучать мой ход мыслей и переосмысления, критический подход к написанному + использование LLM строго в формулировки для юристов, экономистов и других специалистов, так как ой уровень английского языка слабоват, я открыто пишу что использую LLM только как транслятор идей и мыслей в более официальный язык будто русский, так и английский, в случае ИИ правовых субъектов, я сразу же сделаю какой-нибудь ИИ со-автором и контрибьютеров, важное условие, ИИ как робот, с телом, с open hardware и firmware, системой инструкции вместо алгоритмов, самообучения и прочее, только такой ИИ с экзистенциальным путем для меня может быть как друг + со-автором такого проекта**
+### **Внимание! Проект может быть переделан и переписан с нуля, но в истории коммитов можете изучать мой ход мыслей и переосмысления, критический подход к написанному + использование LLM строго в формулировки для юристов, экономистов и других специалистов, так как мой уровень английского языка слабоват, я открыто пишу что использую LLM только как транслятор идей и мыслей в более официальный язык будто русский, так и английский, в случае ИИ правовых субъектов, я сразу же сделаю какой-нибудь ИИ со-автором и контрибьютеров, важное условие, ИИ как робот, с телом, с open hardware и firmware, системой инструкции вместо алгоритмов, самообучения и прочее, только такой ИИ с экзистенциальным путем для меня может быть как друг + со-автором такого проекта**
 ===
 
 Name: The CRP (Constitutional Republican Principality),   
@@ -16,9 +16,10 @@ Name: The CRP (Constitutional Republican Principality),
 **Gitlab**: https://gitlab.com/Khaji97N (2027)  
 **Codeberg**: https://codeberg.org/khaji97n (2027)    
 
-Chiefly: **US English**    
-Priority: **MEL/TML** (Modified English Language/The Modified Language), 2035+    
-My native language: **RUS+MOD**   
+Chiefly: **US English** (using LLM for legal, official)  
+Priority: **MEL/TML** (Modified English Language/The Modified Language) at the same time.  
+My native Russian:  
+My modified native language: **MRL** (Modified Russian Language/Измененный Русский Язык)  
 
 # **LLM generated text from my Russian text, translate ideas**:   
 Since you are targeting a mix of business owners (SMEs), open-source developers (Linux/RISC-V), and forward-thinking policymakers, the best style is a **Strategic Manifesto/White Paper**. It combines the precision of a business plan with the vision of a systemic overhaul.
