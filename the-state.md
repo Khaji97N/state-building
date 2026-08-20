@@ -262,18 +262,22 @@ II. **Antistrategist**/**Antinavigator** or Greek Antinavarch -
 Антистратег/Антинавигатор -   
 III. **Ypostrategist**/**Yponavigator** or Greek Yponavarch -     
 Ипостратег  
-
-Tactical level:  
-
 IV. Strategist or Navigator secondary (IDF Aluf Mishne)  
 V. Mandate strategist or navigator (IDF Sgan Aluf)  
 VI. Captain/Chief/Head (IDF Rav Seren)  
-VIII. Corporal/Petty Captain/Cadet/Petite Chief/Small head (IDF Seren)
-IX. Mandate (IDF Segen)   
+VIII. Corporal/Petty Captain/Cadet/Petite Chief/Small head (IDF Seren)  
+IX. Mandate (IDF Segen)  
 X. Commandant (IDF Segen Mishneh)  
 XI. Professional (IDF Katzín akademai meyuchad)  
 XII. Specialist (IDF Katzín akademai bakhír)  
 XIII. Aspirant (IDF Katzín miktsoí akademai)  
+XIV. (Rav nagad)  
+XV. (Rav samal bakhír)  
+XVI. (Rav samal mitkadem)  
+XVII. (Rav samal rishon)  
+XVIII. (Rav samal)  
+XIX. (Samal rishon)  
+XX. (Samal)  
 ### Aerospace Maneuver operations. Parallel Army model (for contractors, mercenaries, hireling, etc)  
 Воздушно-пространственные Маневренные операции. Параллельная армейская модель (для контрактников, наемников, наемных и так далее)
 
