@@ -1,4 +1,4 @@
-### The State Building. 2026-8-25. the vN (version Null, 0.0001-9999) no earlier than 2027-6-1. Final version vI (version I, 1.0000) 2035-2040. Bilingual project: English, Russian. **Active section "Discussions"**.  
+### The State Building. 2026-8-27. the vN (version Null, 0.0001-9999) no earlier than 2027-6-1. Final version vI (version I, 1.0000) 2035-2040. Bilingual project: English, Russian. **Active section "Discussions"**.  
 
 ## **Re-writing** Archived commit history. Deleted main folders, empty md files, LLM translator text archived in commits etc. 
 
@@ -14,3 +14,12 @@ Priority: **MEL/TML** (Modified English Language/The Modified Language) at the s
 My native Russian (для юридических и официальных):  
 My modified native language: **MRL**/**ИРЯ** (Modified Russian Language/Измененный Русский Язык)  
 
+# Open questions: 
+
+Modular configuration (Between states, subsidiary local-municipal cooperation, coordination etc)  
+
+Git legislature, parliament + vTaiwan + Medieval Icelandic Althings, Novgorod Veches, Ancient Roman forums, Ancient Greece, etc for (offline) public discussion places  
+
+Modular legal units, laws, like Docker containers.  
+
+An International entity (like EU + NATO + Swiss Federal Council for better/greater coordination, cooperation etc), Members-Republics, a Unitary Republic + Associated States (Replacing federation, confederation through a modular configuration)  
