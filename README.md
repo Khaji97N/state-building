@@ -16,7 +16,41 @@ Priority: **MEL/TML** (Modified English Language/The Modified Language) at the s
 My native Russian (для юридических и официальных):  
 My modified native language: **MRL**/**ИРЯ** (Modified Russian Language/Измененный Русский Язык)  
 
-LLM text with better understanding for readers. 
+LLM text with better understanding for readers.  
+
+> [!IMPORTANT]
+> ## Development and Access Notice
+>
+> This project is currently developed offline and updated publicly
+> when access to GitHub and related services is available.
+>
+> Delays, gaps, or sudden interruptions in commits may result from
+> access restrictions, connectivity problems, platform unavailability,
+> or other external circumstances. A period without updates should not
+> automatically be interpreted as abandonment.
+>
+> Raw drafts may be published before they are mature in order to
+> preserve project continuity and make the work available to readers,
+> critics, and potential contributors.
+>
+> ---
+>
+> ## Разработка и доступность
+>
+> В настоящее время проект разрабатывается в автономном режиме,
+> а публичные обновления публикуются по мере доступности GitHub
+> и связанных с ним сервисов.
+>
+> Задержки, перерывы или внезапное прекращение коммитов могут быть
+> вызваны ограничениями доступа, проблемами соединения,
+> недоступностью платформы или другими внешними обстоятельствами.
+> Период отсутствия обновлений не следует автоматически считать
+> отказом от проекта.
+>
+> Сырые материалы могут публиковаться до завершения их проработки,
+> чтобы сохранить непрерывность проекта и сделать работу доступной
+> читателям, критикам и потенциальным соавторам.
+
 # State-Building
 
 ## Project Status
