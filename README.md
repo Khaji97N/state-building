@@ -1,15 +1,8 @@
-### The State Building. 2026-8-28. the vN (version Null, 0.0001-9999) no earlier than 2027-6-1. Final version vI (version I, 1.0000) 2035-2040. Bilingual project: English, Russian. **Active section "Discussions"**.  
+### The State Building. 2026-09-09. the vN (version Null, 0.0001-9999) no earlier than 2027-06-01. Final version vI (version I, 1.0000) 2035-2040. Bilingual project: English, Russian. **Active section "Discussions"**.  
 
-## **Re-writing** Archived commit history. Deleted main folders, empty md files.
+## **Re-writing** Archived commit history. Deleted main folders, empty md files. README.md only LLM text (but translation ideas in legalistic-economic-philosophic format, etc). **Youtube**: https://www.youtube.com/@KhadzhimuradPrilov **ONLY TEXT POSTS**.   
 
-# README.md only LLM text (but translation ideas in legalistic-economic-philosophic format, etc)
-
-**Contact**, DM: https://steamcommunity.com/id/HadgimuradPrilov/   
-**E-mai**: khajiprilov1997@gmail.com **BUT I SEARCHES AN OPEN E-MAIL, DE-GOOGLEFICATION**   
-**Youtube**: https://www.youtube.com/@KhadzhimuradPrilov **BUT ONLY TEXT POSTS**   
-**Peertube**: ?  
-**Gitlab**: https://gitlab.com/Khaji97N (2027)  
-**Codeberg**: https://codeberg.org/khaji97n (2027)    
+# My comprehensive generalist core + Co-authors aspect specialists (jurists, economists, etc specialists).  
 
 Chiefly: **US English** (using LLM for legal, official)  
 Priority: **MEL/TML** (Modified English Language/The Modified Language) at the same time.  
@@ -73,6 +66,344 @@ security, ecology, and human development.
 
 > The project is intentionally incomplete, but it should not be
 > intentionally undefined.
+
+## Development Method and Critical Questions
+
+This project is an early-stage interdisciplinary exploration of institutional,
+technological, economic, and social systems.
+
+It is not intended to present a complete ideology, constitution, legal system,
+economic model, or technical specification. The project begins with a general
+vision and develops through criticism, experimentation, expert collaboration,
+and revision.
+
+The primary objective is not to eliminate all disadvantages. Complex systems
+cannot be made risk-free. The objective is to ensure that serious failures are:
+
+- detectable;
+- limited in scope;
+- reversible where possible;
+- subject to independent review;
+- unable to concentrate unlimited power in one person or institution;
+- unable to destroy the whole system through a single failure.
+
+### Core Development Questions
+
+For every major proposal, ask:
+
+1. What problem is this proposal intended to solve?
+2. Is the problem clearly observed, or merely assumed?
+3. Who benefits from the proposal?
+4. Who may be harmed, excluded, or placed under additional control?
+5. What assumptions does the proposal depend on?
+6. What would make the proposal fail?
+7. What is the worst plausible misuse?
+8. Who receives power, information, money, or discretion?
+9. Who can supervise, limit, or remove that power?
+10. How can an affected person appeal or obtain compensation?
+11. Can the proposal be tested on a limited scale?
+12. Can it be reversed if it performs poorly?
+13. What existing institutions or practices already solve part of the problem?
+14. Does the proposal solve a real problem or merely add complexity?
+15. What is the simplest version that could be tested?
+
+### Intent and Mission Command
+
+The project is influenced by mission command, intent-based leadership, distributed
+decision-making, and anti-authoritarian liberal principles.
+
+The purpose is not to reproduce military hierarchy in civilian society. The
+purpose is to explore how institutions can provide clear intent, resources,
+constraints, and accountability while allowing decisions to be made by the
+lowest competent level.
+
+Every major intent should clarify:
+
+- the purpose;
+- the desired outcome;
+- available resources;
+- delegated authority;
+- prohibited actions;
+- acceptable risks;
+- decision boundaries;
+- reporting requirements;
+- review and termination conditions.
+
+Autonomy must not mean unlimited discretion. Authority must correspond to
+responsibility, and independent decision-making must remain accountable.
+
+### Institutional Design Questions
+
+For every proposed institution or network, ask:
+
+- What is its legal or functional status?
+- Is it a government body, a public service network, a cooperative, a contractor,
+  or an independent association?
+- What powers does it have?
+- What powers does it explicitly not have?
+- Who appoints its leaders?
+- Who can remove or suspend them?
+- Who controls its budget?
+- Who can audit it?
+- How are conflicts resolved?
+- How are minority interests protected?
+- How can participants leave the institution?
+- What prevents temporary emergency powers from becoming permanent?
+- What prevents coordination from becoming centralization?
+- What prevents decentralization from becoming fragmentation?
+- What happens if one participant refuses to cooperate?
+- What happens if a local decision harms neighbouring communities?
+
+### Proportionality
+
+The project uses proportionality as a general design principle.
+
+Proportionality should be evaluated according to:
+
+- the seriousness of the problem;
+- the probability of harm;
+- the urgency of intervention;
+- the scope of authority required;
+- the amount of information collected;
+- the duration of intervention;
+- the number of people affected;
+- the reversibility of the decision;
+- the availability of less intrusive alternatives;
+- the quality of oversight and appeal mechanisms.
+
+A useful principle is:
+
+> The greater the power, risk, and irreversibility of an action, the stronger
+> the justification, limitation, transparency, and independent oversight it
+> requires.
+
+### Open and Proprietary Components
+
+The project does not assume that every component must be open or that every
+proprietary component is automatically unacceptable.
+
+For each component, ask:
+
+- How critical is it?
+- What happens if it fails?
+- What happens if it is maliciously modified?
+- Can it be independently audited?
+- Can it be replaced?
+- Is there vendor lock-in?
+- Can a proprietary component be isolated?
+- Are its interfaces and security properties documented?
+- Is there a public accountability mechanism?
+- Is the closed design justified by a specific and proportionate risk?
+
+Possible levels include:
+
+1. fully open implementation and design;
+2. open architecture with partially closed implementation;
+3. proprietary component with mandatory independent auditing;
+4. isolated critical component with strict legal, technical, and operational
+   controls.
+
+Closed components must not automatically become unaccountable components.
+
+### Local Autonomy and Interoperability
+
+Local and regional systems should be able to adapt to their conditions, but
+they must meet common minimum standards.
+
+The project should distinguish between:
+
+- mandatory minimum capabilities;
+- recommended practices;
+- optional local implementations;
+- experimental alternatives.
+
+Local autonomy should not allow a community to fall below essential standards
+for safety, rights, interoperability, accessibility, or emergency response.
+
+Interoperability should be preferred over forced uniformity.
+
+### Failure and Abuse Analysis
+
+Every major proposal should include a failure analysis.
+
+Consider:
+
+- technical failure;
+- human error;
+- corruption;
+- incompetence;
+- malicious insiders;
+- external attacks;
+- institutional capture;
+- economic crisis;
+- infrastructure outage;
+- communication failure;
+- legal conflict;
+- political polarization;
+- public distrust;
+- unequal access;
+- emergency powers being extended;
+- a dominant organization controlling the network.
+
+For each failure, identify:
+
+- the likely cause;
+- the affected people;
+- the possible scale of harm;
+- early warning signs;
+- containment measures;
+- recovery procedures;
+- responsibility for review;
+- whether the failure is reversible.
+
+### Socratic and Adversarial Review
+
+The project should use structured questioning rather than assuming that an idea
+is correct because it is coherent or morally attractive.
+
+For every proposal, collaborators should ask:
+
+- What do we mean by this term?
+- What evidence supports this assumption?
+- What alternative explanation exists?
+- What would a serious opponent say?
+- Which group would reject this proposal first, and why?
+- Who gains practical power from this design?
+- Could the same mechanism be used against the original values?
+- What happens under a bad leader?
+- What happens under a competent but authoritarian leader?
+- What happens when the system is under stress?
+- What happens when resources are scarce?
+- What happens when people do not share the intended values?
+- Is the proposal dependent on unusually honest, intelligent, or cooperative
+  participants?
+- Can it still function with ordinary human behaviour?
+
+A proposal should not be considered mature until it has survived serious criticism
+from people who do not share its assumptions.
+
+### Pre-Mortem Method
+
+Before accepting a proposal, imagine that it has failed after five or ten years.
+
+Ask:
+
+> What most likely caused the failure?
+
+Possible answers may include:
+
+- excessive complexity;
+- unclear responsibility;
+- bureaucratic growth;
+- concentration of information;
+- lack of funding;
+- hostile political capture;
+- low public participation;
+- incompatibility between local systems;
+- dependence on a small number of experts;
+- unrealistic assumptions about human behaviour.
+
+The proposal should then be revised to address the most credible failure scenarios.
+
+### Expert Collaboration
+
+The project distinguishes between the general architectural vision and
+specialized professional development.
+
+The author provides the initial direction, cross-disciplinary connections,
+and general intent. Co-authors and specialists may independently revise,
+criticize, replace, or reject parts of the initial proposal.
+
+Potential contribution types include:
+
+- conceptual co-authorship;
+- legal analysis;
+- economic modelling;
+- technical architecture;
+- security analysis;
+- institutional design;
+- historical comparison;
+- ethical criticism;
+- implementation research;
+- editing and clarification.
+
+Specialists are not expected to formally approve the entire project. They are
+invited to improve specific parts, identify hidden assumptions, and explain
+where the general vision conflicts with professional reality.
+
+### Required Review Questions for Collaborators
+
+Potential collaborators should be encouraged to answer:
+
+1. What is the strongest part of the proposal?
+2. What is the weakest part?
+3. Which assumption is most questionable?
+4. What important stakeholder is missing?
+5. What legal, economic, technical, or social constraint is underestimated?
+6. What unintended consequence is most likely?
+7. What part should be removed rather than expanded?
+8. What can be tested immediately?
+9. What evidence would change your opinion?
+10. What alternative design would you propose?
+
+Disagreement is considered a productive contribution when it is specific,
+reasoned, and connected to the project’s goals.
+
+### Pilot Before Expansion
+
+Large institutional proposals should be developed through limited experiments
+where possible.
+
+A pilot should define:
+
+- a small scope;
+- a limited duration;
+- responsible participants;
+- measurable objectives;
+- known risks;
+- a method of collecting feedback;
+- a stopping condition;
+- a procedure for revision or termination.
+
+A system should not be expanded merely because it works in a small demonstration.
+Scaling introduces new risks, such as bureaucracy, inequality, security exposure,
+and loss of accountability.
+
+### Decision Records
+
+Important design decisions should be recorded separately from general essays.
+
+Each decision record should contain:
+
+- the problem;
+- the considered alternatives;
+- the chosen approach;
+- the reasons for choosing it;
+- known disadvantages;
+- unresolved questions;
+- conditions for revising the decision;
+- date and version.
+
+This preserves the history of the project and prevents old assumptions from
+silently becoming permanent principles.
+
+### Status Labels
+
+Documents may use the following status labels:
+
+- `draft`;
+- `author-concept`;
+- `open-for-review`;
+- `research`;
+- `expert-reviewed`;
+- `co-authored`;
+- `experimental`;
+- `adopted`;
+- `rejected`;
+- `archived`.
+
+A document's status should be visible to prevent an early speculation from being
+mistaken for a final position.
 
 ## Nature of the Project
 
