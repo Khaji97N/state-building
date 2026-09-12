@@ -1,8 +1,8 @@
-### The State Building. 2026-09-09. the vN (version Null, 0.0001-9999) no earlier than 2027-06-01. Final version vI (version I, 1.0000) 2035-2040. Bilingual project: English, Russian. **Active section "Discussions"**.  
+# The State Building. 2026-09-12. the vN (version Null, 0.0001-9999) no earlier than 2027-06-01. Final version vI (version I, 1.0000) 2035+. Bilingual project: English, Russian. **Active section "Discussions"**  
 
-## **Re-writing** Archived commit history. Deleted main folders, empty md files. README.md only LLM text (but translation ideas in legalistic-economic-philosophic format, etc). **Youtube**: https://www.youtube.com/@KhadzhimuradPrilov **ONLY TEXT POSTS**.   
+## **Re-writing** Archived commit history. Deleted main folders, empty md files. README.md only LLM text (but translation ideas in legalistic-economic-philosophic format, etc). **Youtube**: <https://www.youtube.com/@KhadzhimuradPrilov> **ONLY TEXT POSTS**
 
-# My comprehensive generalist core + Co-authors aspect specialists (jurists, economists, etc specialists).  
+### My comprehensive generalist core + Co-authors aspect specialists (jurists, economists, etc specialists)  
 
 Chiefly: **US English** (using LLM for legal, official)  
 Priority: **MEL/TML** (Modified English Language/The Modified Language) at the same time.  
@@ -12,6 +12,7 @@ My modified native language: **MRL**/**ИРЯ** (Modified Russian Language/Из�
 LLM text with better understanding for readers.  
 
 > [!IMPORTANT]
+>
 > ## Development and Access Notice
 >
 > This project is currently developed offline and updated publicly
@@ -44,9 +45,9 @@ LLM text with better understanding for readers.
 > чтобы сохранить непрерывность проекта и сделать работу доступной
 > читателям, критикам и потенциальным соавторам.
 
-# State-Building
+## State-Building
 
-## Project Status
+### Project Status
 
 This is a modest, personal, early-stage, and exploratory project.
 
@@ -67,7 +68,7 @@ security, ecology, and human development.
 > The project is intentionally incomplete, but it should not be
 > intentionally undefined.
 
-## Development Method and Critical Questions
+### Development Method and Critical Questions
 
 This project is an early-stage interdisciplinary exploration of institutional,
 technological, economic, and social systems.
@@ -107,7 +108,7 @@ For every major proposal, ask:
 14. Does the proposal solve a real problem or merely add complexity?
 15. What is the simplest version that could be tested?
 
-### Intent and Mission Command
+#### Intent and Mission Command
 
 The project is influenced by mission command, intent-based leadership, distributed
 decision-making, and anti-authoritarian liberal principles.
@@ -673,7 +674,7 @@ current policy, legal advice, or final project commitments.
 A hypothetical constitutional tax system could include:
 
 | Tax or contribution | Illustrative example | Purpose |
-|---|---:|---|
+| --- | ---: | --- |
 | Corporate income tax | 15% of taxable profit | Funding public institutions and infrastructure |
 | Personal income tax | 0–25% progressive scale | Funding public services while protecting basic income |
 | Value-added or consumption tax | 5–10% | Broad-based public revenue |
@@ -883,7 +884,7 @@ The following dates are approximate planning horizons, not promises,
 deadlines, or predictions.
 
 | Period | Intended level of development |
-|---|---|
+| --- | --- |
 | Until 2028 | Personal notes, initial ideas, questions, and early drafts |
 | 2028–2030 | Hypotheses and hypothetical situations |
 | 2030–2035 | Deeper study, comparative research, and theory-building |
@@ -977,4 +978,3 @@ That is not a defect to conceal. It is a condition of honest exploration.
 > Do not accept an idea because it is mine.
 > Do not reject it because it is unfinished.
 > Examine it, test it, improve it, fork it, or abandon it.
-

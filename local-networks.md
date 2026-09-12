@@ -1,10 +1,10 @@
-# The State Model / Это статс-модель
->
-> Note for RU: слова как стат/штат, статс-модель, статс-структуры и прочее заменяют слова государство, государственный и прочее. Это важно в рамках нового подхода, этимологии и семантики и других аспектов.  
->
+# Local Public Services Network (LPSN)  
+
+Not an administrative-territorial division, this is a cooperation and coordination for urban or rural proposes
+
 ```yaml  
 ---
-title: the-state-model  
+title: LPSN  
 status: a-draft  
 maturity: not.  
 version: 0.0001  
@@ -12,8 +12,8 @@ date: 2026-09-12
 confidence: lowest.  
 evidence_level: a-note.  
 dependencies:  
-- constitutionalism (as an imperative principle, not just a constitution). 
-- legal aspects (an important).  
+- local cooperation 
+- local coordination  
 - jurisdiction (Experimental open designed institutional implementation, open modular configuration).  
 open_questions:
 - open institutional design.  
@@ -38,5 +38,3 @@ maintainers:
 > **Status:** Preliminary institutional design draft.
 > It is not legal advice, a constitutional text, or a ready-to-adopt
 ```  
-
-## Other details in development
