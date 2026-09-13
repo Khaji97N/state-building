@@ -1,6 +1,6 @@
 # The State Building. 2026-09-12. the vN (version Null, 0.0001-9999) no earlier than 2027-06-01. Final version vI (version I, 1.0000) 2035+. Bilingual project: English, Russian. **Active section "Discussions"**  
 
-## **Re-writing** Archived commit history. Deleted main folders, empty md files. README.md only LLM text (but translation ideas in legalistic-economic-philosophic format, etc). **Youtube**: <https://www.youtube.com/@KhadzhimuradPrilov> **ONLY TEXT POSTS**
+## **Re-writing (CO-AUTHORS.md, etc files)** Archived commit history. Deleted main folders, empty md files. README.md only LLM text (but translation ideas in legalistic-economic-philosophic format, etc). **Youtube**: <https://www.youtube.com/@KhadzhimuradPrilov> **ONLY TEXT POSTS**
 
 ### My comprehensive generalist core + Co-authors aspect specialists (jurists, economists, etc specialists)  
 
