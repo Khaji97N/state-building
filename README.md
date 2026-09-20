@@ -1,4 +1,4 @@
-# The State Building. 2026-09-16. the vN (version Null, 0.0001-9999) no earlier than 2027-06-01. Final version vI (version I, 1.0000) 2035+. Bilingual project: English, Russian. **Active section "Discussions"**  
+# The State Building. 2026-09-20. Bilingual project: English, Russian. **Active section for posts "Discussions"**  
 
 Copyright note: This repository contains human-authored material created with AI assistance. AI assistance does not by itself determine copyright ownership. Copyright status may depend on the nature and extent of human creative contribution and on the applicable jurisdiction. References, quotations, excerpts, and third-party materials remain subject to applicable copyright law, licensing terms, attribution requirements, and jurisdiction-specific limitations such as fair use or fair dealing.
 
@@ -65,6 +65,8 @@ The LLM also contributed to conceptual exploration by proposing distinctions, co
 > читателям, критикам и потенциальным соавторам.
 
 ## State-Building
+
+This repository is an open-ended collection of conceptual experiments in institutional design. It is not intended to present a complete political theory or validated economic framework. It documents questions, speculative mechanisms, terminology, scenario analysis, and the evolution of the author’s thinking. Readers are invited to criticize, formalize, reinterpret, or independently develop the ideas.
 
 ### Project Status
 
