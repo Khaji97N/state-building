@@ -1,6 +1,6 @@
 # AI Assistance and Authorship
 
-This project was developed by [Your Name]. I used large language models (LLMs) as research, brainstorming, translation, language-editing, and red-team tools.
+This project was developed by Khadzimurad Prilov (Russian: Хаджимурад Прилов). I used large language models (LLMs) as research, brainstorming, translation, language-editing, and red-team tools.
 
 The LLMs assisted with:
 

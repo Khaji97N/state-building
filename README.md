@@ -1,203 +1,441 @@
-# The State Building. 2026-09-20. Bilingual project: English, Russian. **Active section for posts "Discussions"**  
+# The State Building. Commit 45, 2026-09-24. Bilingual project: English, Russian. **Active section for posts "Discussions"**  
 
-Copyright note: This repository contains human-authored material created with AI assistance. AI assistance does not by itself determine copyright ownership. Copyright status may depend on the nature and extent of human creative contribution and on the applicable jurisdiction. References, quotations, excerpts, and third-party materials remain subject to applicable copyright law, licensing terms, attribution requirements, and jurisdiction-specific limitations such as fair use or fair dealing.
+An open-ended research and design project about constitutional government, public institutions, subsidiarity, municipal cooperation, resilience, and the responsible distribution of power.
 
-Dual-license this project: Unless otherwise stated, the documentation in this repository is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+> This repository is a conceptual and exploratory project. It is not a finished constitution, a complete government blueprint, legal advice, or an implementation-ready administrative system.
 
-Code, schemas, and software components may be licensed separately. See the relevant directory for applicable license notices.
+## What is this project?
 
-Forks and adaptations are permitted. Fork authors should clearly identify:
+`state-building` explores how public institutions could be designed to remain:
 
-- the original project;
-- the modified sections;
-- the date of modification;
-- incompatible changes;
-- the jurisdiction or community for which the fork is intended;
-- whether the fork remains constitutionally compatible with the original core.
+- constitutionally limited;
+- politically accountable;
+- resilient during crises;
+- adaptable to local conditions;
+- open to public scrutiny;
+- resistant to the concentration and abuse of power;
+- capable of cooperating without becoming a single centralized hierarchy.
 
-## **Re-writing (CO-AUTHORS.md, etc files)** Archived commit history. Deleted main folders, empty md files. README.md only LLM text (but translation ideas in legalistic-economic-philosophic format, etc). **Youtube**: <https://www.youtube.com/@KhadzhimuradPrilov> **ONLY TEXT POSTS**
+The project combines ideas from liberal constitutionalism, republicanism, existential philosophy, subsidiarity, municipal cooperation, digital government, public administration, comparative law, civil resilience, and institutional oversight.
 
-### My comprehensive generalist core + Co-authors aspect specialists (jurists, economists, etc specialists)  
+The goal is not to design one perfect state.
 
-Chiefly: **US English** (using LLM for legal, official)  
-Priority: **MEL/TML** (Modified English Language/The Modified Language) at the same time.  
-My native Russian (для юридических и официальных):  
-My modified native language: **MRL**/**ИРЯ** (Modified Russian Language/Измененный Русский Язык)  
+The goal is to develop a shared conceptual framework that can be questioned, criticized, adapted, forked, and expanded by other people.
 
-The use of AI varied by file. In some documents, the LLM was used primarily for language assistance and translation. In others, it contributed to brainstorming, comparative analysis, conceptual refinement, and red-team critique.
+## What does “institutional engineering” mean here?
 
-The human author selected the final concepts, determined the normative direction, evaluated the suggestions, and approved the final text.
+Institutional engineering is the deliberate design of public rules, authorities, procedures, and accountability mechanisms.
 
-The LLM also contributed to conceptual exploration by proposing distinctions, counterarguments, alternative formulations, and potential failure modes. These contributions were treated as suggestions rather than authoritative sources. The human author evaluated and integrated them where appropriate.
+It asks questions such as:
 
-> [!IMPORTANT]
->
-> ## Development and Access Notice
->
-> This project is currently developed offline and updated publicly
-> when access to GitHub and related services is available.
->
-> Delays, gaps, or sudden interruptions in commits may result from
-> access restrictions, connectivity problems, platform unavailability,
-> or other external circumstances. A period without updates should not
-> automatically be interpreted as abandonment.
->
-> Raw drafts may be published before they are mature in order to
-> preserve project continuity and make the work available to readers,
-> critics, and potential contributors.
->
-> ---
->
-> ## Разработка и доступность
->
-> В настоящее время проект разрабатывается в автономном режиме,
-> а публичные обновления публикуются по мере доступности GitHub
-> и связанных с ним сервисов.
->
-> Задержки, перерывы или внезапное прекращение коммитов могут быть
-> вызваны ограничениями доступа, проблемами соединения,
-> недоступностью платформы или другими внешними обстоятельствами.
-> Период отсутствия обновлений не следует автоматически считать
-> отказом от проекта.
->
-> Сырые материалы могут публиковаться до завершения их проработки,
-> чтобы сохранить непрерывность проекта и сделать работу доступной
-> читателям, критикам и потенциальным соавторам.
+- Who is allowed to make a decision?
+- What can that authority not do?
+- Who can review or reverse the decision?
+- How is responsibility assigned?
+- What happens if the institution is captured by a faction?
+- How can a system continue working during a crisis?
+- How can authority be distributed without creating paralysis?
+- How can public institutions cooperate without becoming a new centralized government?
 
-## State-Building
+This project treats institutions as systems that should be examined under both normal and hostile conditions.
 
-This repository is an open-ended collection of conceptual experiments in institutional design. It is not intended to present a complete political theory or validated economic framework. It documents questions, speculative mechanisms, terminology, scenario analysis, and the evolution of the author’s thinking. Readers are invited to criticize, formalize, reinterpret, or independently develop the ideas.
+A public institution should not be evaluated only by asking whether it works when everyone is competent and well-intentioned. It should also be tested against incompetence, corruption, political capture, emergency pressure, bureaucratic delay, misinformation, resource shortages, and deliberate abuse.
 
-### Project Status
+## Core direction
 
-This is a modest, personal, early-stage, and exploratory project.
+The project is guided by a combination of:
 
-The project is based on the idea that institutions should expand human and non-human agency without allowing any actor—state, corporation, majority, or artificial intelligence—to exercise unchecked domination.
+- liberal constitutionalism;
+- republican government and civic responsibility;
+- existential attention to individual agency and responsibility;
+- subsidiarity and local self-government;
+- institutional pluralism;
+- public accountability;
+- adversarial review and red-team analysis;
+- digital traceability and transparent decision-making;
+- comprehensive civil resilience.
 
-Its normative foundation combines constitutionalism and existentialism:
+The central idea can be summarized as follows:
 
-- constitutionalism limits power and establishes accountability;
-- existentialism emphasizes freedom, responsibility, agency, and the meaning of choice.
+> Public power should be distributed across multiple accountable institutions, coordinated when necessary, limited by constitutional principles, and continuously exposed to criticism and review.
 
-The intended result is not a system in which AI replaces humanity, but a framework for coexistence and mutual augmentation among different forms of intelligent life.
+## Core principles
 
-It is not a finished political program, constitutional proposal, economic
-system, legal doctrine, software specification, or implementation plan.
-It is a living archive of ideas, questions, hypotheses, philosophical
-reflections, institutional concepts, and possible future scenarios.
+The following principles form the initial constitutional and ethical core of the project.
 
-Some ideas may be incomplete, contradictory, impractical, outdated, or
-wrong. They are preserved not as established truths, but as material for
-criticism, revision, specialization, discussion, and possible future forks.
+### 1. Limited public power
 
-The project does not claim intellectual authority. Its purpose is to
-preserve a developing process of thought and to explore relationships
-between philosophy, law, economics, technology, public administration,
-security, ecology, and human development.
+Every public authority must have defined powers, defined limits, and a defined accountability mechanism.
 
-> The project is intentionally incomplete, but it should not be
-> intentionally undefined.
+### 2. Human responsibility
 
-### Development Method and Critical Questions
+Technology, procedures, and artificial intelligence may assist public decision-making, but they must not erase human responsibility for consequential decisions.
 
-This project is an early-stage interdisciplinary exploration of institutional,
-technological, economic, and social systems.
+### 3. Constitutional review
 
-It is not intended to present a complete ideology, constitution, legal system,
-economic model, or technical specification. The project begins with a general
-vision and develops through criticism, experimentation, expert collaboration,
-and revision.
+Public institutions must be subject to legal, political, financial, and public oversight.
 
-The primary objective is not to eliminate all disadvantages. Complex systems
-cannot be made risk-free. The objective is to ensure that serious failures are:
+### 4. Subsidiarity
 
-- detectable;
-- limited in scope;
-- reversible where possible;
-- subject to independent review;
-- unable to concentrate unlimited power in one person or institution;
-- unable to destroy the whole system through a single failure.
+A public function should be performed by the smallest competent level capable of performing it effectively and responsibly.
 
-### Core Development Questions
+### 5. Local institutional diversity
 
-For every major proposal, ask:
+Different municipalities and regions may use different institutional arrangements if they remain compatible with the constitutional core.
 
-1. What problem is this proposal intended to solve?
-2. Is the problem clearly observed, or merely assumed?
-3. Who benefits from the proposal?
-4. Who may be harmed, excluded, or placed under additional control?
-5. What assumptions does the proposal depend on?
-6. What would make the proposal fail?
-7. What is the worst plausible misuse?
-8. Who receives power, information, money, or discretion?
-9. Who can supervise, limit, or remove that power?
-10. How can an affected person appeal or obtain compensation?
-11. Can the proposal be tested on a limited scale?
-12. Can it be reversed if it performs poorly?
-13. What existing institutions or practices already solve part of the problem?
-14. Does the proposal solve a real problem or merely add complexity?
-15. What is the simplest version that could be tested?
+### 6. Cooperation without forced unification
 
-### Open Constitutional Institution Design
+Municipalities should be able to cooperate without losing their legal identity or being absorbed into a single administrative hierarchy.
 
-This project develops an open, modular, and federated framework for designing institutions.
+### 7. Adversarial examination
 
-It is inspired by the architecture of open-source software, operating-system kernels, constitutionalism, systems and institutional engineering, distributed governance, and existentialist philosophy.
+Major policies and institutions should be examined by independent critics, red teams, auditors, and counter-experts.
 
-The project distinguishes between:
+### 8. Public explanation
 
-- a comprehensive general vision;
-- aspect-specific cores;
-- implementation profiles;
-- local adaptations;
-- independent forks;
-- compatibility and review mechanisms.
+Authorities should provide understandable reasons for important decisions, including decisions to reject proposals.
 
-An aspect core defines the foundational principles, concepts, constraints, rights, responsibilities, and institutional interfaces of a particular domain.
+### 9. Reversibility and review
 
-Examples include:
+Where possible, public decisions should include review dates, revision procedures, and safeguards against permanent emergency powers.
 
-- local and community networks;
-- constitutional state design;
-- artificial intelligence rights;
-- health and telemedicine;
-- open hardware;
-- defense and societal resilience;
-- education;
-- economic institutions.
+### 10. Protection against institutional capture
 
-## Human–AI Co-Development
+No institution should be designed on the assumption that its officeholders will always be competent, benevolent, or politically neutral.
 
-The project assumes that future intelligent systems may become more than passive tools. They may be capable of asking questions, identifying ambiguity, proposing alternatives, testing assumptions, and participating in long-term institutional learning.
+## What this repository is not
 
-The present project does not assume that current LLMs possess legal personhood or independent moral status. Nevertheless, it treats AI-assisted inquiry as a meaningful form of intellectual augmentation.
+This repository is not:
 
-The long-term goal is not to create systems that merely wait for commands. It is to develop forms of cooperation in which human and artificial intelligence can:
+- a finished constitution;
+- a political party platform;
+- a complete legal code;
+- a government implementation manual;
+- a prediction of the future;
+- a claim that one institutional model works everywhere;
+- a replacement for professional legal, administrative, economic, or engineering expertise.
 
-- clarify each other's assumptions;
-- identify risks;
-- challenge institutional designs;
-- improve collective reasoning;
-- preserve human agency;
-- and gradually develop more reciprocal forms of participation.
+Many proposals are intentionally incomplete. Some are speculative. Some are only questions. Others may be replaced by better alternatives.
 
-Any expansion of AI autonomy should remain gradual, reviewable, accountable, and compatible with constitutional protections.
+## Core, vision, and experimental modules
 
-## Statement on AI-Assisted Development
+The project is organized into three broad levels.
 
-This repository was developed through a human-led and AI-assisted process.
+### Constitutional core
 
-The human author is responsible for the project's normative commitments, institutional proposals, source selection, interpretation of legal and philosophical materials, and final text.
+The core contains principles that define the identity of the project. These may include:
 
-LLMs were used as:
+- limitations on public authority;
+- separation and distribution of powers;
+- judicial and public review;
+- human responsibility;
+- protection against arbitrary rule;
+- subsidiarity;
+- accountability and transparency.
 
-1. language and translation assistants;
-2. brainstorming and conceptual-development tools;
-3. research-navigation tools;
-4. terminology and structure assistants;
-5. adversarial reviewers;
-6. red-team systems for identifying failure modes, hidden assumptions, contradictions, and potential abuse scenarios.
+### General vision
 
-LLM outputs were treated as provisional suggestions and were not presumed to be accurate, original, authoritative, or legally reliable. Substantive claims require human review and, where appropriate, verification against primary sources.
+The general vision describes possible relationships between:
 
-The project distinguishes between current legal authorship and its philosophical position regarding the possible future legal recognition of artificial persons. The current disclosure does not itself assert that an LLM has legal personhood, copyright ownership, or independent legal standing.
+- the state;
+- municipalities;
+- regional institutions;
+- public services;
+- digital systems;
+- oversight bodies;
+- civic participation;
+- emergency coordination;
+- economic and fiscal systems.
+
+The general vision is not intended to prescribe one universal institutional structure.
+
+### Experimental modules
+
+Modules explore specific institutions or mechanisms, such as:
+
+- intermunicipal federations;
+- local public-service networks;
+- shared resilience funds;
+- emergency coordination;
+- legal review and archival systems;
+- counter-expertise;
+- red teams;
+- digital civic participation;
+- shared procurement;
+- municipal infrastructure cooperation;
+- alternative economic and fiscal arrangements.
+
+Modules may be revised, replaced, or developed independently in separate branches and forks.
+
+## Subsidiarity and intermunicipal federations
+
+One developing area of the project is the design of voluntary or treaty-based intermunicipal federations.
+
+An intermunicipal federation is not necessarily a new administrative-territorial division. It may instead be a cooperative institutional arrangement created by several municipalities to perform selected functions together.
+
+Possible shared functions include:
+
+- emergency response;
+- fire and rescue services;
+- healthcare coordination;
+- public transportation;
+- waste management;
+- water management;
+- energy resilience;
+- river and watershed protection;
+- social services;
+- shared procurement;
+- medicine and medical-equipment purchasing;
+- infrastructure maintenance;
+- communications and information technology;
+- emergency shelters;
+- environmental protection;
+- joint training and preparedness.
+
+A municipality should not need to join one single federation for every public function.
+
+It may participate in several function-specific networks at the same time.
+
+For example:
+
+```text
+Municipality A
+├── River and watershed network
+├── Regional energy-resilience network
+├── Shared medical procurement network
+├── Intermunicipal emergency-response network
+└── Joint public-transportation network
+
+This creates a form of subsidiarity-based diversification:
+
+    one network may focus on rivers and environmental protection;
+    another may focus on energy;
+    another may provide shared medical procurement;
+    another may coordinate emergency services;
+    another may manage transportation;
+    another may support social services.
+
+The municipality remains a municipality. The networks do not automatically become a single superior government.
+Functional networks instead of one universal hierarchy
+
+The project explores whether public cooperation can be organized through overlapping functional networks rather than one rigid administrative hierarchy.
+
+A functional network may have:
+
+    a defined purpose;
+    a membership agreement;
+    a limited scope of authority;
+    shared funding rules;
+    service standards;
+    procedures for joining and leaving;
+    public reporting requirements;
+    audit and review mechanisms;
+    dispute-resolution procedures;
+    emergency activation rules;
+    rules for terminating the network.
+
+A network should not receive unlimited general authority merely because it performs one important function.
+
+Its authority should remain connected to its purpose.
+
+For example, a river-management network should not automatically gain the power to control municipal education policy, local elections, or unrelated budgets.
+Local public-service networks
+
+A local public-service network is a cooperative coordination structure for urban or rural municipalities.
+
+It is not intended to be:
+
+    a new municipality;
+    a permanent centralized government;
+    a replacement for existing departments;
+    a single unified administrative authority;
+    a mechanism for silently transferring all local powers to one coordinator.
+
+Possible participating services include:
+
+    rescue and fire services;
+    healthcare and public health;
+    housing, utilities, and waste management;
+    finance and shared procurement;
+    social services;
+    communications and information technology;
+    environmental and river services;
+    transportation;
+    volunteer and civil-resilience organizations.
+
+The network may use an incident coordination office or incident department for dispatching and operational coordination.
+
+The incident coordinator should have narrowly defined operational powers during an incident, while remaining unable to:
+
+    appoint or dismiss department heads;
+    dissolve the intermunicipal assembly;
+    permanently change municipal competences;
+    rewrite the budget without authorization;
+    convert temporary emergency powers into permanent authority;
+    interfere with matters outside the operational scope of the incident.
+
+Resilience against concentration of power
+
+Functional diversification is also intended as a safeguard against institutional capture.
+
+If every public service depends on one authority, one database, one budget, one procurement system, or one political center, the system may become vulnerable to:
+
+    political takeover;
+    bureaucratic obstruction;
+    corruption;
+    deliberate sabotage;
+    emergency-power abuse;
+    administrative paralysis;
+    suppression of dissent;
+    single-point failure.
+
+Overlapping but limited networks may create institutional resilience by ensuring that no single authority controls every public function.
+
+However, diversification can also create confusion, duplication, and coordination failure.
+
+For that reason, every network should define:
+
+    its exact jurisdiction;
+    its limited function;
+    its relationship with municipalities;
+    its relationship with other networks;
+    who is responsible for failures;
+    how conflicts are resolved;
+    how information is shared;
+    what happens when cooperation breaks down;
+    how emergency coordination is activated;
+    how the network can be audited or terminated.
+
+The purpose is not to create permanent institutional fragmentation.
+
+The purpose is to prevent the concentration of all essential functions in one unreviewable center.
+Questions this project is trying to explore
+
+    How can public institutions remain limited while still being effective?
+    How can municipalities cooperate without losing autonomy?
+    Can emergency coordination remain temporary and accountable?
+    How should authority be divided between local, regional, and national institutions?
+    How can a state preserve institutional diversity without producing paralysis?
+    What forms of oversight work when ordinary procedures fail?
+    How can public decisions be reviewed with the assistance of artificial intelligence without delegating final responsibility to AI?
+    How should outdated laws be reviewed, consolidated, amended, or archived?
+    How can legal memory be preserved without enabling the restoration of oppressive laws?
+    How can citizens participate without reducing complex governance to simple majoritarian voting?
+    What prevents a coordination office from becoming a hidden executive government?
+    How should institutions behave when their own procedures are being exploited?
+
+How to read this repository
+
+New readers may wish to start with:
+
+    the-state-model.md
+    AUTHORITIES.md
+    local-networks.md
+    red-team.md
+    COORDINATORS.md
+    OPEN_QUESTIONS.md
+
+The repository may contain different levels of certainty and maturity. Readers should distinguish between:
+
+    principles;
+    institutional proposals;
+    comparative examples;
+    speculative ideas;
+    open questions;
+    criticism;
+    unfinished drafts.
+
+Research and development approach
+
+The project uses several methods:
+
+    comparative constitutional research;
+    comparative public administration;
+    philosophical inquiry;
+    Socratic questioning;
+    scenario analysis;
+    adversarial review;
+    red-team testing;
+    institutional failure analysis;
+    legal and policy drafting;
+    consultation with practitioners and researchers;
+    experimentation through branches, modules, and forks.
+
+A proposal should not be accepted merely because it sounds elegant.
+
+It should be tested against:
+
+    ordinary operation;
+    crisis conditions;
+    bad-faith use;
+    political capture;
+    resource shortages;
+    administrative delay;
+    legal disputes;
+    public misunderstanding;
+    minority-rights concerns;
+    institutional failure.
+
+Status of the project
+
+This is an ongoing independent research and design project.
+
+The repository contains ideas at different stages of development. Some proposals are deliberately unfinished because they are intended to invite criticism, expert review, alternative designs, and future collaboration.
+
+The author maintains the initial direction and conceptual core, but does not claim exclusive authority over every implementation.
+
+Specialized contributors, co-authors, critics, branches, and forks may develop alternative versions of particular institutions or modules.
+Contributing
+
+Contributions may include:
+
+    identifying contradictions;
+    improving definitions;
+    adding comparative research;
+    proposing alternative institutional designs;
+    testing ideas against realistic scenarios;
+    identifying risks of abuse or capture;
+    drafting legal or administrative examples;
+    improving diagrams and documentation;
+    creating regional or functional forks;
+    challenging the assumptions of the project.
+
+A strong contribution does not need to agree with the author.
+
+The most useful contributions may explain how an attractive idea could fail in practice.
+
+When proposing a new institution, contributors are encouraged to explain:
+
+    its purpose;
+    its legal status;
+    its powers;
+    its limits;
+    its sources of funding;
+    its accountability mechanisms;
+    its failure modes;
+    its relationship to existing institutions;
+    the conditions under which it should be revised or abandoned.
+
+A note on terminology
+
+Some documents may experiment with new terminology, including modified English or Russian terms.
+
+New terminology is not intended to create unnecessary complexity. It is used to explore distinctions that may be missing from ordinary administrative language.
+
+Where possible, each specialized term should be accompanied by:
+
+    a plain-language definition;
+    its legal or institutional meaning;
+    its limits;
+    comparable existing concepts;
+    possible alternative terms.
+
+Final perspective
+
+This project is an attempt to think about public institutions before they are treated as inevitable.
+
+It asks whether government can be designed as a network of limited, accountable, cooperating, and reviewable institutions rather than as an undivided hierarchy.
+
+The project does not assume that decentralization automatically produces freedom, that technology automatically produces democracy, or that coordination automatically produces efficiency.
+
+Every institutional proposal must remain open to criticism.
